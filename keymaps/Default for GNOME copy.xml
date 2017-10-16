@@ -1,0 +1,18 @@
+<keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl numpad7" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="JumpToLastChange" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Tool_External Tools_pylint">
+    <keyboard-shortcut first-keystroke="alt add" />
+  </action>
+</keymap>
