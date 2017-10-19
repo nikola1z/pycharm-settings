@@ -1,4 +1,7 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
@@ -14,6 +17,7 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="JumpToLastChange" />
+  <action id="RunJsbtTask" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
