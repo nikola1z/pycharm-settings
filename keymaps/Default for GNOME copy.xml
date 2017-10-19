@@ -2,6 +2,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
   </action>
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl numpad9" />
   </action>
