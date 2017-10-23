@@ -1,8 +1,30 @@
 <keymap version="1" name="Default for GNOME copy" parent="Default for GNOME">
+  <action id="ActivatePythonConsoleToolWindow">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
   <action id="Back">
-    <keyboard-shortcut first-keystroke="ctrl kp_left" />
+    <keyboard-shortcut first-keystroke="ctrl numpad7" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+  </action>
+  <action id="EditorToggleCase">
+    <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="FileChooser.NewFile">
+    <keyboard-shortcut first-keystroke="alt n" />
   </action>
   <action id="Forward">
-    <keyboard-shortcut first-keystroke="ctrl kp_right" />
+    <keyboard-shortcut first-keystroke="ctrl numpad9" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
+  <action id="Git.Branches">
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
+  <action id="JumpToLastChange" />
+  <action id="RunJsbtTask" />
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="Tool_External Tools_pylint">
+    <keyboard-shortcut first-keystroke="alt add" />
   </action>
 </keymap>
