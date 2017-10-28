@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="Bash.AddReplAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
