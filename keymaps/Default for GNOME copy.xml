@@ -6,9 +6,6 @@
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
-  <action id="Bash.AddReplAction">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -26,6 +23,12 @@
   <action id="RunJsbtTask" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt c" />
+  </action>
+  <action id="TabsPlacementNone">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
+  <action id="TabsPlacementRight">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Tool_External Tools_pylint">
     <keyboard-shortcut first-keystroke="alt add" />
