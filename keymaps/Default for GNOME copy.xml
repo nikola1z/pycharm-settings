@@ -6,8 +6,12 @@
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="Console.History.Browse" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
+  </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="alt e" />
   </action>
   <action id="FileChooser.NewFile">
     <keyboard-shortcut first-keystroke="alt n" />
@@ -20,6 +24,10 @@
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
   <action id="JumpToLastChange" />
+  <action id="PerforceDirect.Edit" />
+  <action id="QuickEvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl alt e" />
+  </action>
   <action id="RunJsbtTask" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt c" />
