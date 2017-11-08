@@ -30,7 +30,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -94,7 +94,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>175</Count>
+          <Count>176</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -102,7 +102,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>49</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Hide All Windows">
@@ -214,7 +214,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'load_to_mongo'</Description>
-          <Count>8</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test'">
@@ -279,6 +279,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'allychat'</Description>
           <Count>39</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'load_to_mongo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'load_to_mongo'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop...">
