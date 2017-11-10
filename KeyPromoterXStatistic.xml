@@ -262,7 +262,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -374,7 +374,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>23</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
     </option>
