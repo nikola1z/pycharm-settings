@@ -23,6 +23,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Github.Create.Pull.Request">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="JumpToLastChange" />
   <action id="PerforceDirect.Edit" />
   <action id="QuickEvaluateExpression">
