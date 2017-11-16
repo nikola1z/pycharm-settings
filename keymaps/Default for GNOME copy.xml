@@ -35,6 +35,9 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="alt v" />
+  </action>
   <action id="TabsPlacementNone">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
@@ -43,5 +46,8 @@
   </action>
   <action id="Tool_External Tools_pylint">
     <keyboard-shortcut first-keystroke="alt add" />
+  </action>
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift v" />
   </action>
 </keymap>
