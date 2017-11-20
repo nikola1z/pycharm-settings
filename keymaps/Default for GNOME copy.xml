@@ -50,4 +50,7 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift v" />
   </action>
+  <action id="editRunConfigurations">
+    <keyboard-shortcut first-keystroke="alt f9" />
+  </action>
 </keymap>

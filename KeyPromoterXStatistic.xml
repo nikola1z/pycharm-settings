@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -145,6 +145,14 @@
           <Count>28</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'anna-scenario'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'anna-scenario'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'load_to_mongo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -174,7 +182,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>518</Count>
+          <Count>519</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -198,7 +206,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>78</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Find in Path...">
@@ -401,6 +409,14 @@
           <Count>9</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'anna-scenario'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'anna-scenario'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'load_to_mongo'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -430,7 +446,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
@@ -497,6 +513,14 @@
           <Count>24</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'anna-scenario'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'anna-scenario'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'load_to_mongo'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -534,7 +558,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>54</Count>
+          <Count>55</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -542,7 +566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>134</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -566,7 +590,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
     </option>
