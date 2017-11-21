@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="ChangesView.Ignore">
+    <keyboard-shortcut first-keystroke="alt i" />
+  </action>
   <action id="Console.History.Browse" />
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
