@@ -17,6 +17,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Call Hierarchy">
+        <Item>
+          <IdeaActionID>CallHierarchy</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+H'</ShortCut>
+          <Description>Call Hierarchy</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Change Signature...">
         <Item>
           <IdeaActionID>ChangeSignature</IdeaActionID>
@@ -30,6 +38,14 @@
           <IdeaActionID>CompareTwoFiles</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Compare With...</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Configure Current File Analysis...">
+        <Item>
+          <IdeaActionID>PopupHector</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+H'</ShortCut>
+          <Description>Configure Current File Analysis...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -86,7 +102,7 @@
           <IdeaActionID>GotoCustomRegion</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Period'</ShortCut>
           <Description>Custom Folding...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -249,6 +265,22 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="File Path">
+        <Item>
+          <IdeaActionID>ShowFilePath</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+2'</ShortCut>
+          <Description>File Path</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="File Structure">
+        <Item>
+          <IdeaActionID>FileStructurePopup</IdeaActionID>
+          <ShortCut>'Ctrl+F12'</ShortCut>
+          <Description>File Structure</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Find in Path...">
         <Item>
           <IdeaActionID>FindInPath</IdeaActionID>
@@ -270,6 +302,14 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Parameter Info">
+        <Item>
+          <IdeaActionID>ParameterInfo</IdeaActionID>
+          <ShortCut>'Ctrl+P'</ShortCut>
+          <Description>Parameter Info</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -319,6 +359,38 @@
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
           <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Definition">
+        <Item>
+          <IdeaActionID>QuickImplementations</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+I'</ShortCut>
+          <Description>Quick Definition</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Quick Switch Scheme...">
+        <Item>
+          <IdeaActionID>QuickChangeScheme</IdeaActionID>
+          <ShortCut>'Ctrl+Back Quote'</ShortCut>
+          <Description>Quick Switch Scheme...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Changes">
+        <Item>
+          <IdeaActionID>RecentChanges</IdeaActionID>
+          <ShortCut>'Alt+Shift+C'</ShortCut>
+          <Description>Recent Changes</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Recent Files">
+        <Item>
+          <IdeaActionID>RecentFiles</IdeaActionID>
+          <ShortCut>'Ctrl+E'</ShortCut>
+          <Description>Recent Files</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Import from zendesk'">
@@ -513,6 +585,14 @@
           <Count>5</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run Inspection by Name...">
+        <Item>
+          <IdeaActionID>RunInspection</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+I'</ShortCut>
+          <Description>Run Inspection by Name...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Settings...">
         <Item>
           <IdeaActionID>ShowSettings</IdeaActionID>
@@ -534,6 +614,14 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Show Reformat File Dialog">
+        <Item>
+          <IdeaActionID>ShowReformatFileDialog</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+L'</ShortCut>
+          <Description>Show Reformat File Dialog</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -687,6 +775,14 @@
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unwrap/Remove...">
+        <Item>
+          <IdeaActionID>Unwrap</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+Delete'</ShortCut>
+          <Description>Unwrap/Remove...</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
