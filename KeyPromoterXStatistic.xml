@@ -102,7 +102,7 @@
           <IdeaActionID>Github.Create.Pull.Request</IdeaActionID>
           <ShortCut>'Alt+R'</ShortCut>
           <Description>Create Pull Request</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Custom Folding...">
@@ -318,7 +318,7 @@
           <IdeaActionID>ChangesView.Ignore</IdeaActionID>
           <ShortCut>'Alt+I'</ShortCut>
           <Description>Ignore...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -462,7 +462,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Right">
@@ -838,7 +838,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>60</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
     </option>
