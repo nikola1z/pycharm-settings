@@ -486,7 +486,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Import from zendesk'">
