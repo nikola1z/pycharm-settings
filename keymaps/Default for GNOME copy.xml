@@ -29,6 +29,9 @@
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
