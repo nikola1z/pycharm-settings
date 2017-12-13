@@ -142,7 +142,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -150,7 +150,15 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>12</Count>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database Tools...">
+        <Item>
+          <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
+          <ShortCut>'Alt+Enter'</ShortCut>
+          <Description>Database Tools...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -206,7 +214,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'allychat'</Description>
-          <Count>57</Count>
+          <Count>60</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-api'">
@@ -278,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>999</Count>
+          <Count>1004</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -326,7 +334,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>128</Count>
+          <Count>133</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -334,7 +342,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -390,7 +398,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -503,6 +511,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Remove">
+        <Item>
+          <IdeaActionID>$Delete</IdeaActionID>
+          <ShortCut>'Delete'</ShortCut>
+          <Description>Remove</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Import from zendesk'">
@@ -766,7 +782,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -902,7 +918,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>77</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
@@ -918,7 +934,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>12</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -942,7 +958,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>240</Count>
+          <Count>245</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -974,7 +990,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>73</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
     </option>
