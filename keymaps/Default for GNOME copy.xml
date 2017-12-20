@@ -35,7 +35,9 @@
   <action id="Github.Create.Pull.Request">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
-  <action id="JumpToLastChange" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="alt l" />
+  </action>
   <action id="PerforceDirect.Edit" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
