@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-api'</Description>
-          <Count>61</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-auth'">
@@ -286,7 +286,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1268</Count>
+          <Count>1271</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -374,7 +374,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -934,7 +934,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>140</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
