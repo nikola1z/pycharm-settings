@@ -310,7 +310,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1531</Count>
+          <Count>1535</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -542,6 +542,14 @@
           <IdeaActionID>RecentFiles</IdeaActionID>
           <ShortCut>'Ctrl+E'</ShortCut>
           <Description>Recent Files</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Refactor This...">
+        <Item>
+          <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
+          <Description>Refactor This...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
