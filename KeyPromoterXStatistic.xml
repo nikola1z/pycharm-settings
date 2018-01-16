@@ -62,7 +62,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>55</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -86,7 +86,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Table to...">
@@ -177,6 +177,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Reports test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Reports test'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Send docs to es local'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-reports'</Description>
-          <Count>102</Count>
+          <Count>105</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-scenario'">
@@ -310,7 +318,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1582</Count>
+          <Count>1600</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -374,7 +382,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>215</Count>
+          <Count>230</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -382,7 +390,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>11</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -455,6 +463,14 @@
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
           <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Open Console">
+        <Item>
+          <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Open Console</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Parameter Info">
@@ -713,6 +729,14 @@
           <Count>43</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Reports test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Reports test'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Send docs to es local'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -743,6 +767,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic reports create migration'</Description>
           <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'alembic reports upgrade head reposts tes...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic reports upgrade head reposts tes...'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic reports upgrade head'">
@@ -945,6 +977,14 @@
           <Count>27</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Reports test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Reports test'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Send docs to es'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1006,7 +1046,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'anna-reports'</Description>
-          <Count>106</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'anna-scenario'">
@@ -1078,7 +1118,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -1094,7 +1134,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>207</Count>
+          <Count>213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1102,7 +1142,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>412</Count>
+          <Count>433</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
