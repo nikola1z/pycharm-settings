@@ -398,7 +398,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>277</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
