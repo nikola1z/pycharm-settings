@@ -270,7 +270,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-reports'</Description>
-          <Count>152</Count>
+          <Count>155</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-scenario'">
@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1650</Count>
+          <Count>1652</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -337,12 +337,20 @@
           <Count>4</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Delete Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Ctrl+Y'</ShortCut>
+          <Description>Delete Row</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Delete Rows">
         <Item>
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>19</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -398,7 +406,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>294</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -462,7 +470,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -598,7 +606,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>76</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -785,6 +793,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'alembic reports downgrade base'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic reports downgrade base'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'alembic reports upgrade head reposts tes...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -798,7 +814,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic reports upgrade head'</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic reports'">
@@ -886,7 +902,7 @@
           <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'insert-neg…rt-data.sql'...</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'insert-test-data.sql'... ">
@@ -1110,7 +1126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'anna-reports'</Description>
-          <Count>153</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'anna-scenario'">
@@ -1166,7 +1182,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>32</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
