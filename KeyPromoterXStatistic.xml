@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -326,7 +326,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1654</Count>
+          <Count>1655</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -502,7 +502,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>18</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
