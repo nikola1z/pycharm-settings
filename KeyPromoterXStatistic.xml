@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1698</Count>
+          <Count>1699</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -791,6 +791,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tagneta'</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'alembic balance upgrade head'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic balance upgrade head'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic reports create migration'">
