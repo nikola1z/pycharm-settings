@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1726</Count>
+          <Count>1730</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -801,12 +801,20 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'alembic balance downgrade'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic balance downgrade'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'alembic balance upgrade head'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic balance upgrade head'</Description>
-          <Count>11</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic reports create migration'">
@@ -1254,7 +1262,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>234</Count>
+          <Count>236</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1294,7 +1302,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
     </option>
