@@ -334,7 +334,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1746</Count>
+          <Count>1760</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -414,7 +414,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>364</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -454,7 +454,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -479,6 +479,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Table...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Modify Table...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Folder...">
@@ -526,7 +534,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
