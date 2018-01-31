@@ -342,7 +342,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1793</Count>
+          <Count>1795</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -422,7 +422,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>407</Count>
+          <Count>418</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
