@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -270,7 +270,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-balance'</Description>
-          <Count>47</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-gps'">
@@ -350,7 +350,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1812</Count>
+          <Count>1814</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -366,7 +366,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -374,7 +374,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>53</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -422,7 +422,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>249</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -646,7 +646,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>167</Count>
+          <Count>190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>26</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'anna-balance'</Description>
-          <Count>41</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'anna-gps'">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>186</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>107</Count>
+          <Count>116</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>498</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1342,7 +1342,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>158</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
     </option>
