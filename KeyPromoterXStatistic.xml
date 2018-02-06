@@ -78,7 +78,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -175,6 +175,14 @@
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
           <Count>34</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Balance tests'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Balance tests'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Import from zendesk'">
@@ -350,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>1975</Count>
+          <Count>1983</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -422,7 +430,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>254</Count>
+          <Count>257</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -657,6 +665,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Balance tests'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Balance tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Import from zendesk'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -777,6 +793,14 @@
           <Count>8</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Balance tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Balance tests'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Create new user'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -798,7 +822,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Reports test'</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Send docs to es local'">
@@ -1113,6 +1137,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Balance tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Balance tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Create new user'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1310,7 +1342,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>255</Count>
+          <Count>257</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1318,7 +1350,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>507</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
