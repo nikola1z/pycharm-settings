@@ -358,7 +358,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2017</Count>
+          <Count>2018</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1094,7 +1094,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>37</Count>
+          <Count>38</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
     </option>
