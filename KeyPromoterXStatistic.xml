@@ -70,7 +70,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>71</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -78,7 +78,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>27</Count>
+          <Count>29</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -191,6 +191,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Import from zendesk'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Payment tests'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Payment tests'</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Reports test'">
@@ -398,7 +406,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -438,7 +446,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>259</Count>
+          <Count>262</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -830,7 +838,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Payment tests'</Description>
-          <Count>4</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Reports test'">
@@ -1382,7 +1390,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>280</Count>
+          <Count>287</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1390,7 +1398,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>519</Count>
+          <Count>520</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
