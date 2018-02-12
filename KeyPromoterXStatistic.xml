@@ -873,6 +873,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'alembic account create migration'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic account create migration'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'alembic account upgrade head'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
