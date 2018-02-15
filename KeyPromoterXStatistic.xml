@@ -278,7 +278,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-account'</Description>
-          <Count>68</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-api'">
@@ -382,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2334</Count>
+          <Count>2344</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -454,7 +454,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>295</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -502,7 +502,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -590,7 +590,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -766,7 +766,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>19</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Right">
@@ -1334,7 +1334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'anna-account'</Description>
-          <Count>47</Count>
+          <Count>50</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'anna-api'">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>627</Count>
+          <Count>628</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
     </option>
