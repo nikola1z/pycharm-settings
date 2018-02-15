@@ -78,7 +78,7 @@
           <IdeaActionID>CopyPaths</IdeaActionID>
           <ShortCut>'Ctrl+Shift+C'</ShortCut>
           <Description>Copy Path</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Reference">
@@ -94,7 +94,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Table to...">
@@ -150,7 +150,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>46</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -239,6 +239,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Unittests for test_es_index_co...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'account test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'account test'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'alembic balance upgrade head'">
@@ -374,7 +382,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2293</Count>
+          <Count>2315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -438,7 +446,7 @@
           <IdeaActionID>editRunConfigurations</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Edit Configurations...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -446,7 +454,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>289</Count>
+          <Count>294</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -454,7 +462,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>543</Count>
+          <Count>544</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -494,7 +502,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -518,7 +526,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -750,7 +758,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -881,6 +889,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'account test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'account test'</Description>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'alembic account create migration'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -895,6 +911,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic account downgrade'</Description>
           <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'alembic account test upgrade head'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic account test upgrade head'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic account upgrade head'">
@@ -1190,7 +1214,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1287,6 +1311,14 @@
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Tagneta'</Description>
           <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'account test'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'account test'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'allychat'">
@@ -1454,7 +1486,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>309</Count>
+          <Count>314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1462,7 +1494,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>615</Count>
+          <Count>625</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -1470,7 +1502,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -1494,7 +1526,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>191</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
     </option>
