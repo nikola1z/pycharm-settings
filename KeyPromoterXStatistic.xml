@@ -390,7 +390,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2501</Count>
+          <Count>2514</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'anna-api'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'anna-auth'">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>252</Count>
+          <Count>253</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
