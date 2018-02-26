@@ -1150,7 +1150,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'meta_try'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'py.test for test_payment.test_transfer_i...'">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>354</Count>
+          <Count>356</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
