@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>44</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Balance tests'">
@@ -270,7 +270,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'allychat'</Description>
-          <Count>115</Count>
+          <Count>118</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-account'">
@@ -334,7 +334,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-scenario'</Description>
-          <Count>25</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-workers'">
@@ -742,7 +742,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'allychat'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'anna-gps'">
@@ -806,7 +806,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>50</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'allychat'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'anna-account'">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'anna-api'</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'anna-auth'">
@@ -1254,7 +1254,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>39</Count>
+          <Count>40</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'allychat'</Description>
-          <Count>62</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'anna-account'">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>256</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>356</Count>
+          <Count>357</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1574,7 +1574,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>203</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
     </option>
