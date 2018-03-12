@@ -302,7 +302,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'anna-account'</Description>
-          <Count>82</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-api'">
@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2870</Count>
+          <Count>2872</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -486,7 +486,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>366</Count>
+          <Count>369</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -791,6 +791,14 @@
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'allychat'</Description>
           <Count>63</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'anna-account'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'anna-account'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'anna-auth'">
@@ -1614,7 +1622,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>915</Count>
+          <Count>922</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
