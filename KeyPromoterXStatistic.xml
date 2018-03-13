@@ -414,7 +414,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>2887</Count>
+          <Count>2892</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -486,7 +486,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>375</Count>
+          <Count>378</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -806,7 +806,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'anna-api'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'anna-auth'">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>386</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
