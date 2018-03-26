@@ -726,7 +726,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>366</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1606,7 +1606,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>185</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Symbol...">
