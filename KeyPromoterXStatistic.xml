@@ -369,6 +369,14 @@
           <Count>18</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'annabot test'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'annabot test'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'load_to_mongo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -414,7 +422,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3259</Count>
+          <Count>3267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1193,6 +1201,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'annabot test'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'annabot test'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1382,7 +1398,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>43</Count>
+          <Count>44</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1662,7 +1678,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1030</Count>
+          <Count>1032</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
@@ -1702,7 +1718,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>262</Count>
+          <Count>263</Count>
         </Item>
       </Statistic>
     </option>
