@@ -385,6 +385,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'main (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'main (1)'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'semantic_load_to_mongo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -422,7 +430,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3313</Count>
+          <Count>3315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -494,7 +502,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>418</Count>
+          <Count>429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -502,7 +510,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>585</Count>
+          <Count>589</Count>
         </Item>
       </Statistic>
       <Statistic Action="File Path">
@@ -566,7 +574,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -1262,7 +1270,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'main (1)'</Description>
-          <Count>7</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'main'">
@@ -1678,7 +1686,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1060</Count>
+          <Count>1064</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
