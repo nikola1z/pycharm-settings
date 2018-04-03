@@ -294,7 +294,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'allychat'</Description>
-          <Count>143</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'anna-account'">
@@ -998,7 +998,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Workstation'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'account test'">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'allychat'</Description>
-          <Count>87</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'anna-account'">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>424</Count>
+          <Count>427</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1742,7 +1742,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>271</Count>
+          <Count>273</Count>
         </Item>
       </Statistic>
     </option>
