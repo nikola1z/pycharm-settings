@@ -137,6 +137,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Cyclic Expand Word (Backward)">
+        <Item>
+          <IdeaActionID>HippieBackwardCompletion</IdeaActionID>
+          <ShortCut>'Alt+Shift+Slash'</ShortCut>
+          <Description>Cyclic Expand Word (Backward)</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="DDL">
         <Item>
           <IdeaActionID>Jdbc.OpenEditor.Grid.DDL</IdeaActionID>
@@ -446,7 +454,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3628</Count>
+          <Count>3634</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -527,6 +535,14 @@
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
           <Count>589</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Expression Type">
+        <Item>
+          <IdeaActionID>ExpressionTypeInfo</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+P'</ShortCut>
+          <Description>Expression Type</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Favorites">
@@ -1761,6 +1777,14 @@
           <Count>189</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Surround With...">
+        <Item>
+          <IdeaActionID>SurroundWith</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+T'</ShortCut>
+          <Description>Surround With...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Symbol...">
         <Item>
           <IdeaActionID>GotoSymbol</IdeaActionID>
@@ -1799,6 +1823,14 @@
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
           <Count>1109</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Translate action">
+        <Item>
+          <IdeaActionID>com.lid.intellij.translateme.actions.TranslateAction</IdeaActionID>
+          <ShortCut>'Alt+Y'</ShortCut>
+          <Description>Translate action</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
