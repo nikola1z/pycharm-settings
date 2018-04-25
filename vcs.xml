@@ -10,6 +10,10 @@
           <option name="url" value="http://gitlab.knopka24.ru" />
           <option name="userName" value="nikolay.petruhin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.knopka24.ru:443" />
+          <option name="userName" value="nikolay.petruhin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
