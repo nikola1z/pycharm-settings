@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4016</Count>
+          <Count>4021</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'db tests'</Description>
-          <Count>37</Count>
+          <Count>45</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'db'">
