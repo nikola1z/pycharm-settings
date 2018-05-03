@@ -1169,6 +1169,14 @@
           <Count>47</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'alembic create manual migration'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'alembic create manual migration'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'alembic create migration'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
