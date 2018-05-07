@@ -174,7 +174,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>67</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>264</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4170</Count>
+          <Count>4177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -502,7 +502,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>35</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -510,7 +510,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>88</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -558,7 +558,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>483</Count>
+          <Count>484</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -814,7 +814,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>371</Count>
+          <Count>373</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -854,7 +854,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Send docs to es local'">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>81</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Payment tests'">
@@ -1886,7 +1886,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>191</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -1934,7 +1934,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1211</Count>
+          <Count>1213</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
