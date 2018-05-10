@@ -222,7 +222,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>297</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -454,7 +454,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'tests'</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'wrong_issues_count'">
@@ -486,7 +486,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4287</Count>
+          <Count>4297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>86</Count>
+          <Count>91</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -1926,7 +1926,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>502</Count>
+          <Count>503</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
