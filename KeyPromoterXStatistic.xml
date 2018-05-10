@@ -65,6 +65,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Constant...">
+        <Item>
+          <IdeaActionID>IntroduceConstant</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+C'</ShortCut>
+          <Description>Constant...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Context Info">
         <Item>
           <IdeaActionID>EditorContextInfo</IdeaActionID>
@@ -222,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>298</Count>
+          <Count>300</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -486,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4297</Count>
+          <Count>4299</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -647,6 +655,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>50</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Method...">
+        <Item>
+          <IdeaActionID>ExtractMethod</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+M'</ShortCut>
+          <Description>Method...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
