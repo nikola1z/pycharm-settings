@@ -494,7 +494,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4353</Count>
+          <Count>4355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1398,7 +1398,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'db tests'</Description>
-          <Count>55</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'db'">
@@ -1998,7 +1998,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>335</Count>
+          <Count>336</Count>
         </Item>
       </Statistic>
     </option>
