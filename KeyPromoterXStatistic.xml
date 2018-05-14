@@ -273,6 +273,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_auth.AuthTesting.test...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_auth.AuthTesting.test...'</Description>
+          <Count>23</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_es_index_co...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -494,7 +502,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4358</Count>
+          <Count>4396</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -566,7 +574,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>486</Count>
+          <Count>491</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -1102,7 +1110,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_a...'</Description>
-          <Count>1</Count>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_auth.AuthTesting.test...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_auth.AuthTesting.test...'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_d...'">
@@ -1942,7 +1958,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>507</Count>
+          <Count>510</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -1950,7 +1966,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1228</Count>
+          <Count>1247</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
