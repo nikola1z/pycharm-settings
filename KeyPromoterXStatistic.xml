@@ -273,6 +273,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_admin.AdminTesting'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_admin.AdminTesting'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_admin.AdminTesting.te...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -510,7 +518,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4436</Count>
+          <Count>4439</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -582,7 +590,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>502</Count>
+          <Count>503</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -982,7 +990,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Right">
@@ -1118,6 +1126,14 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_a...'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_admin.AdminTesting'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_admin.AdminTesting'</Description>
           <Count>5</Count>
         </Item>
       </Statistic>
@@ -1126,7 +1142,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_admin.AdminTesting.te...'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_auth.AuthTesting.test...'">
@@ -1134,7 +1150,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_auth.AuthTesting.test...'</Description>
-          <Count>17</Count>
+          <Count>19</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_d...'">
@@ -1606,7 +1622,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>92</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -1990,7 +2006,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1267</Count>
+          <Count>1269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -2038,7 +2054,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>337</Count>
+          <Count>340</Count>
         </Item>
       </Statistic>
     </option>
