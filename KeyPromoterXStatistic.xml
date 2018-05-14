@@ -273,6 +273,14 @@
           <Count>31</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_admin.AdminTesting.te...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_admin.AdminTesting.te...'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_auth.AuthTesting.test...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -502,7 +510,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4416</Count>
+          <Count>4436</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -574,7 +582,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>500</Count>
+          <Count>502</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -1110,7 +1118,15 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_a...'</Description>
-          <Count>4</Count>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_admin.AdminTesting.te...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_admin.AdminTesting.te...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_auth.AuthTesting.test...'">
@@ -1118,7 +1134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_auth.AuthTesting.test...'</Description>
-          <Count>14</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_d...'">
@@ -1974,7 +1990,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1263</Count>
+          <Count>1267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
