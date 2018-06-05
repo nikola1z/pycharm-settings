@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>372</Count>
+          <Count>376</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -542,7 +542,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4842</Count>
+          <Count>4848</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -614,7 +614,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>557</Count>
+          <Count>558</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -902,7 +902,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>413</Count>
+          <Count>414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -2126,7 +2126,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1424</Count>
+          <Count>1430</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -2174,7 +2174,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>360</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
     </option>
