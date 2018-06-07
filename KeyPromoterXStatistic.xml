@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>79</Count>
+          <Count>80</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>415</Count>
+          <Count>417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>111</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Payment tests'">
