@@ -230,7 +230,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>413</Count>
+          <Count>415</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -1918,7 +1918,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>109</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Payment tests'">
