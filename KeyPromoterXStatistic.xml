@@ -182,7 +182,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>85</Count>
+          <Count>83</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -558,7 +558,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4991</Count>
+          <Count>4985</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -918,7 +918,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>431</Count>
+          <Count>430</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>145</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
