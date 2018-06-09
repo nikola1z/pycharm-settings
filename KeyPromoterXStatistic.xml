@@ -1798,7 +1798,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -2198,7 +2198,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>537</Count>
+          <Count>538</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
