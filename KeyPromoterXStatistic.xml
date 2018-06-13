@@ -582,7 +582,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5082</Count>
+          <Count>5085</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -758,7 +758,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_a...'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_account.AccountTestin...'">
@@ -1239,6 +1239,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_admin.AdminTesting.te...'</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_admin.AdminTesting.test_allowed_devices_search'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_admin.AdminTesting.test_allowed_devices_search'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_auth.AuthTesting.test...'">
