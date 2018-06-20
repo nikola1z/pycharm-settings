@@ -638,7 +638,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5340</Count>
+          <Count>5360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2017,12 +2017,20 @@
           <Count>16</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'tests swagger'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'tests swagger'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>178</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -2454,7 +2462,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>581</Count>
+          <Count>583</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2510,7 +2518,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>418</Count>
+          <Count>419</Count>
         </Item>
       </Statistic>
     </option>
