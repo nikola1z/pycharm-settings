@@ -409,6 +409,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for tests.api.test_commands_g…CommandsTesting.test_set_object_dnd_mode'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -654,7 +662,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5447</Count>
+          <Count>5466</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1393,6 +1401,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_delete_image_from_device'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_delete_image_from_device'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_db.DbTest.test_get_device_images'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1503,6 +1519,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_websocket.TestWebSocket.test_change_object_card'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'</Description>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_get_object_images'">
@@ -2542,7 +2566,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1561</Count>
+          <Count>1562</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
