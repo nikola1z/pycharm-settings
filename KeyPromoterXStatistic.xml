@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5854</Count>
+          <Count>5877</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1513,12 +1513,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_it'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_it'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_its'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_its'</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_db.DbTest.test_create_event'">
