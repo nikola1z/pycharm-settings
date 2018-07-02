@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5957</Count>
+          <Count>5959</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1695,6 +1695,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_websocket.TestWebSocket.test_get_object_images'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_make_object_photo_token'">
@@ -2806,7 +2814,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>462</Count>
+          <Count>463</Count>
         </Item>
       </Statistic>
     </option>
