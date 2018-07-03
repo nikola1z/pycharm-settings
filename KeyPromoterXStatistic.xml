@@ -246,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>691</Count>
+          <Count>695</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -718,7 +718,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>5993</Count>
+          <Count>5996</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>147</Count>
+          <Count>149</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Send docs to es local'">
