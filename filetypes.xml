@@ -4,8 +4,10 @@
     <extensionMap>
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
       <mapping pattern="ios_audio.txt" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="botworld" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <removed_mapping ext="yaml" approved="true" type="YAML" />
+      <mapping ext="yaml" type="YAML_EX" />
       <mapping ext="template" type="nginx file type" />
       <mapping ext="conf" type="nginx file type" />
     </extensionMap>
