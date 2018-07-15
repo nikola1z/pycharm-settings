@@ -5,6 +5,7 @@
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="botworld" type="PLAIN_TEXT" />
       <mapping ext="template" type="nginx file type" />
+      <mapping ext="conf" type="nginx file type" />
     </extensionMap>
   </component>
 </application>
