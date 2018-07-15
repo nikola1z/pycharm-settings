@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>17</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -30,7 +30,7 @@
           <IdeaActionID>Git.Branches</IdeaActionID>
           <ShortCut>'Alt+B'</ShortCut>
           <Description>Branches...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Call Hierarchy">
@@ -46,6 +46,22 @@
           <IdeaActionID>ChangeSignature</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Change Signature...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Clone Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.CloneRow</IdeaActionID>
+          <ShortCut>'Ctrl+D'</ShortCut>
+          <Description>Clone Row</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Columns List">
+        <Item>
+          <IdeaActionID>Console.TableResult.ColumnsList</IdeaActionID>
+          <ShortCut>'Ctrl+F12'</ShortCut>
+          <Description>Columns List</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -86,7 +102,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>122</Count>
+          <Count>204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -110,7 +126,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Relative Path</Description>
-          <Count>15</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Table to...">
@@ -126,7 +142,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>10</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Create Pull Request">
@@ -174,7 +190,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>59</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -182,7 +198,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>76</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -190,7 +206,7 @@
           <IdeaActionID>DatabaseView.ToolsPopup</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Database Tools...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -198,7 +214,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>106</Count>
+          <Count>219</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -230,7 +246,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>343</Count>
+          <Count>745</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -278,7 +294,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Unittests for test_account.AccountTestin...'</Description>
-          <Count>27</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests for test_admin.AdminTesting'">
@@ -294,7 +310,23 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Unittests for test_admin.AdminTesting.te...'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_admin.AdminTesting.test_allowed_devices_search'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_admin.AdminTesting.test_allowed_devices_search'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_admin.AdminTesting.test_users_without_devices'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_admin.AdminTesting.test_users_without_devices'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Unittests for test_auth.AuthTesting.test...'">
@@ -305,12 +337,180 @@
           <Count>46</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_voice_mails'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_voice_mails'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_g36.G36CommandsTesting.test_measure_heartrate'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_g36.G36CommandsTesting.test_measure_heartrate'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_g36.G36Comm…sting.test_set_g36_object_checkin_period'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_g36.G36Comm…sting.test_set_g36_object_checkin_period'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_ksw.KSWCommandsTesting.test_get_object_events'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_ksw.KSWCommandsTesting.test_get_object_events'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_ksw.KSWCommandsTesting.test_measure_blood_pressure'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_ksw.KSWCommandsTesting.test_measure_blood_pressure'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_ksw.KSWCommandsTesting.test_set_object_alarm_clock'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_ksw.KSWCommandsTesting.test_set_object_alarm_clock'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_commands_ksw.KSWComm…est_send_voice_mail_to_object_and_get_it'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_commands_ksw.KSWComm…est_send_voice_mail_to_object_and_get_it'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_db.DbTest.test_get_users_without_devices'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_db.DbTest.test_get_users_without_devices'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_es_index_co...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Unittests for test_es_index_co...'</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_media_converter.TestMediaConverter'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_media_converter.TestMediaConverter'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_queue.TestQueueApplic...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_queue.TestQueueApplic...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_registration.RegistrationTesting'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_registration.RegistrationTesting'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_report_queue_handler.ReportsHandlerTest.test_save_reports'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_report_queue_handler.ReportsHandlerTest.test_save_reports'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSock...'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSock...'</Description>
+          <Count>33</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_capture_photo'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_capture_photo'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_change_object_card'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_change_object_card'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_get_object_events'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_get_object_events'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_measure_blood_pressure'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_measure_blood_pressure'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for tests.api.test_commands_g…CommandsTesting.test_set_object_dnd_mode'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for tests.api.test_commands_g…CommandsTesting.test_set_object_dnd_mode'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'account test'">
@@ -350,7 +550,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'alembic upgrade head'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'allychat cmd'">
@@ -465,6 +665,14 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'device_simulator (1)'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'device_simulator (1)'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'load_to_mongo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -479,6 +687,14 @@
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'main (1)'</Description>
           <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'migration tool'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'migration tool'</Description>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'registration tests'">
@@ -497,12 +713,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'test_websocket.py'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'test_websocket.py'</Description>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'tests'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'tests'</Description>
-          <Count>24</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'wrong_issues_count'">
@@ -534,7 +758,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>4600</Count>
+          <Count>6374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -542,7 +766,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -550,7 +774,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>60</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -558,7 +782,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>90</Count>
+          <Count>120</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -574,7 +798,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>6</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -582,7 +806,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>11</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -606,7 +830,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>529</Count>
+          <Count>661</Count>
         </Item>
       </Statistic>
       <Statistic Action="Execute">
@@ -614,7 +838,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>596</Count>
+          <Count>941</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -670,7 +894,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>40</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -678,7 +902,7 @@
           <IdeaActionID>ChangesView.Ignore</IdeaActionID>
           <ShortCut>'Alt+I'</ShortCut>
           <Description>Ignore...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -686,7 +910,7 @@
           <IdeaActionID>GotoImplementation</IdeaActionID>
           <ShortCut>'Ctrl+Alt+B' or 'Ctrl+Alt+Button1 Click'</ShortCut>
           <Description>Implementation(s)</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Console...">
@@ -694,7 +918,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>50</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Method...">
@@ -710,7 +934,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>1</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -727,6 +951,14 @@
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
           <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="New Scratch File">
+        <Item>
+          <IdeaActionID>NewScratchFile</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Shift+Insert'</ShortCut>
+          <Description>New Scratch File</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Watch...">
@@ -750,7 +982,7 @@
           <IdeaActionID>Jdbc.OpenConsole</IdeaActionID>
           <ShortCut>'F4'</ShortCut>
           <Description>Open Console</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Override Methods...">
@@ -774,7 +1006,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>25</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -782,7 +1014,7 @@
           <IdeaActionID>PasteMultiple</IdeaActionID>
           <ShortCut>'Ctrl+Shift+V' or 'Ctrl+Shift+Insert'</ShortCut>
           <Description>Paste from History...</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -790,7 +1022,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>45</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -799,6 +1031,14 @@
           <ShortCut>'Ctrl+2'</ShortCut>
           <Description>Project Directory</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Properties">
+        <Item>
+          <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
+          <ShortCut>'Shift+Enter'</ShortCut>
+          <Description>Properties</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Pull...">
@@ -814,7 +1054,7 @@
           <IdeaActionID>Vcs.Push</IdeaActionID>
           <ShortCut>'Ctrl+Shift+K'</ShortCut>
           <Description>Push...</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Python Console">
@@ -822,7 +1062,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>83</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -870,7 +1110,7 @@
           <IdeaActionID>Refactorings.QuickListPopupAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+T'</ShortCut>
           <Description>Refactor This...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Refresh">
@@ -886,7 +1126,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>403</Count>
+          <Count>557</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -895,6 +1135,14 @@
           <ShortCut>'Delete'</ShortCut>
           <Description>Remove</Description>
           <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rename...">
+        <Item>
+          <IdeaActionID>RenameElement</IdeaActionID>
+          <ShortCut>'Shift+F6'</ShortCut>
+          <Description>Rename...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Auth tests'">
@@ -926,7 +1174,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>60</Count>
+          <Count>241</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Send docs to es local'">
@@ -942,6 +1190,14 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Tagneta'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1001,6 +1257,22 @@
           <Count>15</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'device_simulator'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'device_simulator'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'migration tool'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'migration tool'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'workstation'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1014,7 +1286,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Restore Windows</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Revert...">
@@ -1022,7 +1294,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Right">
@@ -1046,7 +1318,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>59</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -1110,7 +1382,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button server'</Description>
-          <Count>5</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payment tests'">
@@ -1158,7 +1430,23 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_a...'</Description>
-          <Count>7</Count>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_account.AccountTestin...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_account.AccountTestin...'</Description>
+          <Count>18</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_account.AccountTesting.test_upload_profile_photo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_account.AccountTesting.test_upload_profile_photo'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_admin.AdminTesting'">
@@ -1177,12 +1465,116 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_admin.AdminTesting.test_allowed_devices_search'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_admin.AdminTesting.test_allowed_devices_search'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_admin.AdminTesting.test_users_without_devices'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_admin.AdminTesting.test_users_without_devices'</Description>
+          <Count>14</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_auth.AuthTesting.test...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_auth.AuthTesting.test...'</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_events'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_events'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_voice_mails'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_voice_mails'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_g36.G36CommandsTesting.test_measure_heartrate'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_g36.G36CommandsTesting.test_measure_heartrate'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_g36.G36Comm…sting.test_set_g36_object_checkin_period'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_g36.G36Comm…sting.test_set_g36_object_checkin_period'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_ksw.KSWCommandsTesting'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_ksw.KSWCommandsTesting'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_get_object_events'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_get_object_events'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_measure_blood_pressure'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_measure_blood_pressure'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_measure_heartrate'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_measure_heartrate'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_set_object_alarm_clock'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_ksw.KSWCommandsTesting.test_set_object_alarm_clock'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_commands_ksw.KSWComm…est_send_voice_mail_to_object_and_get_it'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_commands_ksw.KSWComm…est_send_voice_mail_to_object_and_get_it'</Description>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_d...'">
@@ -1193,12 +1585,116 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_it'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_it'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_its'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_attach_allowed_object_and_then_get_its'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_create_event'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_create_event'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_delete_image_from_device'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_delete_image_from_device'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_get_device_images'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_get_device_images'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_get_enabled_geozones_list'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_get_enabled_geozones_list'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_get_last_geozone_event'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_get_last_geozone_event'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_get_users_without_devices'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_get_users_without_devices'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_is_point_in_geozone'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_is_point_in_geozone'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_db.DbTest.test_update...'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_db.DbTest.test_update...'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_media_converter.TestMediaConverter'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_media_converter.TestMediaConverter'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_q...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_q...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_queue.TestQueueApplic...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_queue.TestQueueApplic...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_r...'">
@@ -1217,6 +1713,206 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_registration.RegistrationTesting'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_registration.RegistrationTesting'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_report_queue_handler.ReportsHandlerTest.test_save_reports'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_report_queue_handler.ReportsHandlerTest.test_save_reports'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_s...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_s...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_swagger.TestSwaggerIsValid'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_swagger.TestSwaggerIsValid'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_w...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_w...'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSock...'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSock...'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_activity_history'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_activity_history'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_capture_photo'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_capture_photo'</Description>
+          <Count>12</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_change_object_card'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_change_object_card'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_delete_object_image'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_get_object_events'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_get_object_events'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_get_object_images'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_get_object_images'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'</Description>
+          <Count>6</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_make_object_photo_token'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_make_object_photo_token'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_measure_blood_pressure'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_measure_blood_pressure'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_measure_health'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_measure_health'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_set_ksw_object_checkin_period'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_set_ksw_object_checkin_period'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_set_object_alarm_clock_ksw'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_set_object_alarm_clock_ksw'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_set_object_checkin_period'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_set_object_checkin_period'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_set_object_phonebook_ksw'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_set_object_phonebook_ksw'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_set_weight'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSocket.test_set_weight'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for tests....'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for tests....'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for tests.api.test_commands_g…CommandsTesting.test_set_object_dnd_mode'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for tests.api.test_commands_g…CommandsTesting.test_set_object_dnd_mode'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests in test_we...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests in test_we...'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Workstation'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -1231,6 +1927,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'account test'</Description>
           <Count>26</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'account tests'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'account tests'</Description>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic account create migration'">
@@ -1302,7 +2006,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic create migration'</Description>
-          <Count>12</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic downgrade -1'">
@@ -1310,7 +2014,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic downgrade -1'</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic downgrade base'">
@@ -1318,7 +2022,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic downgrade base'</Description>
-          <Count>3</Count>
+          <Count>13</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic payment upgrade head'">
@@ -1374,7 +2078,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>25</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -1513,6 +2217,22 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'device_simulator (1)'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'device_simulator (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'device_simulator'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'device_simulator'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1593,6 +2313,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'migration tool'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'migration tool'</Description>
+          <Count>27</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'new_task'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1665,6 +2393,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'run_simulator'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'run_simulator'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'semantic_load_to_mongo'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -1689,12 +2425,28 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'test_websocket.py'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'test_websocket.py'</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'tests swagger'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'tests swagger'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'tests'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>119</Count>
+          <Count>211</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -1750,7 +2502,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>70</Count>
+          <Count>74</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
@@ -1758,7 +2510,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>59</Count>
+          <Count>76</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -1766,7 +2518,7 @@
           <IdeaActionID>Diff.ShowDiff</IdeaActionID>
           <ShortCut>'Ctrl+D'</ShortCut>
           <Description>Show Diff</Description>
-          <Count>1</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Reformat File Dialog">
@@ -1782,7 +2534,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -1790,7 +2542,7 @@
           <IdeaActionID>Jdbc.OpenEditor.DDL</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Source Editor</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Split Vertically">
@@ -1798,7 +2550,7 @@
           <IdeaActionID>SplitVertically</IdeaActionID>
           <ShortCut>'Alt+V'</ShortCut>
           <Description>Split Vertically</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Balance tests'">
@@ -1830,7 +2582,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>99</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Payment tests'">
@@ -1849,6 +2601,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Rerun Failed Tests'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Rerun Failed Tests'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Send docs to es'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1865,11 +2625,67 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Unittests for test_account.AccountTesting.test_upload_object_photo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_account.AccountTesting.test_upload_object_photo'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_admin.AdminTesting.test_allowedobjects'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_admin.AdminTesting.test_allowedobjects'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Unittests for test_auth.AuthTesting.test_auth_and_logout'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Unittests for test_auth.AuthTesting.test_auth_and_logout'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_voice_mails'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_commands_g36.G36CommandsTesting.test_get_object_voice_mails'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_db.DbTest.test_get_users_without_devices'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_db.DbTest.test_get_users_without_devices'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_websocket.TestWebSocket.test_capture_photo'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_websocket.TestWebSocket.test_capture_photo'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_websocket.TestWebSocket.test_get_object_map'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_websocket.TestWebSocket.test_get_object_map'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1977,6 +2793,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'migration tool'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'migration tool'</Description>
+          <Count>24</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'semantic_load_to_mongo'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -1985,12 +2809,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'test_websocket.py'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'test_websocket.py'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'tests'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tests'</Description>
-          <Count>2</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'workstation'">
@@ -2014,7 +2846,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>284</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -2030,7 +2862,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>220</Count>
+          <Count>345</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -2054,7 +2886,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>105</Count>
+          <Count>142</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -2062,7 +2894,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -2070,7 +2902,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>514</Count>
+          <Count>646</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -2078,7 +2910,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1317</Count>
+          <Count>1794</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -2094,7 +2926,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>69</Count>
+          <Count>93</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -2102,7 +2934,7 @@
           <IdeaActionID>ShelveChanges.UnshelveWithDialog</IdeaActionID>
           <ShortCut>'Ctrl+Shift+U'</ShortCut>
           <Description>Unshelve...</Description>
-          <Count>3</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unwrap/Remove...">
@@ -2126,7 +2958,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>346</Count>
+          <Count>513</Count>
         </Item>
       </Statistic>
     </option>
