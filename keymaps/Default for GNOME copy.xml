@@ -61,6 +61,9 @@
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift v" />
   </action>
+  <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>

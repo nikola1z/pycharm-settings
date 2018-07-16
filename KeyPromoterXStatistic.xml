@@ -2502,7 +2502,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
