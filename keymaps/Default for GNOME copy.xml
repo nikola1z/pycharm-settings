@@ -11,4 +11,7 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="JumpToNextChange">
+    <keyboard-shortcut first-keystroke="alt n" />
+  </action>
 </keymap>
