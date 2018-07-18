@@ -38,6 +38,12 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="alt kp_down" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="alt kp_up" />
+  </action>
   <action id="PerforceDirect.Edit" />
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
