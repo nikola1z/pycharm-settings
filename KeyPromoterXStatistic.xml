@@ -198,7 +198,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>202</Count>
+          <Count>206</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -766,7 +766,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6454</Count>
+          <Count>6457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
