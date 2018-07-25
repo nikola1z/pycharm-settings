@@ -774,7 +774,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6528</Count>
+          <Count>6539</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>106</Count>
+          <Count>107</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2942,7 +2942,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>705</Count>
+          <Count>706</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
