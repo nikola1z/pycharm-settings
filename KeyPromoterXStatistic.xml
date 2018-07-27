@@ -870,7 +870,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>964</Count>
+          <Count>970</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1049,6 +1049,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Paste from X clipboard">
+        <Item>
+          <IdeaActionID>EditorPasteFromX11</IdeaActionID>
+          <ShortCut>'Button2 Click'</ShortCut>
+          <Description>Paste from X clipboard</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
@@ -1158,7 +1166,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>567</Count>
+          <Count>582</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -2958,7 +2966,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>339</Count>
+          <Count>341</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
