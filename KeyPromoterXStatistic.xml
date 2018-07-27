@@ -142,7 +142,7 @@
           <IdeaActionID>DatabaseView.CopyTable</IdeaActionID>
           <ShortCut>'F5'</ShortCut>
           <Description>Copy Table to...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Value">
@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>210</Count>
+          <Count>215</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>110</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3030,7 +3030,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>719</Count>
+          <Count>720</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
