@@ -790,7 +790,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6643</Count>
+          <Count>6650</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -894,6 +894,14 @@
           <IdeaActionID>ActivateFavoritesToolWindow</IdeaActionID>
           <ShortCut>'Alt+2'</ShortCut>
           <Description>Favorites</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Field...">
+        <Item>
+          <IdeaActionID>IntroduceField</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+F'</ShortCut>
+          <Description>Field...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1039,6 +1047,14 @@
           <ShortCut>'Ctrl+P'</ShortCut>
           <Description>Parameter Info</Description>
           <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Parameter...">
+        <Item>
+          <IdeaActionID>IntroduceParameter</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+P'</ShortCut>
+          <Description>Parameter...</Description>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
