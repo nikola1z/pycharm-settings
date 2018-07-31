@@ -198,7 +198,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>77</Count>
+          <Count>78</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -822,7 +822,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6802</Count>
+          <Count>6812</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -910,7 +910,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>1038</Count>
+          <Count>1042</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1454,7 +1454,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>127</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -2238,7 +2238,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>86</Count>
+          <Count>87</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -2382,7 +2382,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'db_loader'</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator'">
@@ -3134,7 +3134,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>172</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3150,7 +3150,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>726</Count>
+          <Count>727</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3206,7 +3206,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>549</Count>
+          <Count>551</Count>
         </Item>
       </Statistic>
     </option>
