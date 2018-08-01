@@ -521,6 +521,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSoc…est_send_voice_mail_to_object_and_get_it'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSoc…est_send_voice_mail_to_object_and_get_it'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_websocket.TestWebSoc…t_step_counter_and_check_in_device_props'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -830,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6862</Count>
+          <Count>6863</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2057,6 +2065,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_websocket.TestWebSoc…est_send_voice_mail_to_object_and_get_it'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_websocket.TestWebSoc…est_send_voice_mail_to_object_and_get_it'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_websocket.TestWebSoc…t_step_counter_and_check_in_device_props'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2430,7 +2446,7 @@
           <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'drop test … tables.sql'...</Description>
-          <Count>1</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
@@ -3182,7 +3198,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1894</Count>
+          <Count>1897</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
