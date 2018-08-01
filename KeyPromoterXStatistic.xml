@@ -758,7 +758,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'locust'</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'main (1)'">
@@ -838,7 +838,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>6910</Count>
+          <Count>6924</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2526,7 +2526,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'locust'</Description>
-          <Count>94</Count>
+          <Count>104</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'locustfile'">
@@ -3078,7 +3078,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'locust'</Description>
-          <Count>16</Count>
+          <Count>22</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main (1)'">
@@ -3206,7 +3206,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1901</Count>
+          <Count>1904</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -3254,7 +3254,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>558</Count>
+          <Count>559</Count>
         </Item>
       </Statistic>
     </option>
