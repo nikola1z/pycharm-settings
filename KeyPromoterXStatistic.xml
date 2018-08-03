@@ -3094,7 +3094,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator'</Description>
-          <Count>100</Count>
+          <Count>102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device_simulator (1)'">
