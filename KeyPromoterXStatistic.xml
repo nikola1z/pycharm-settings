@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>313</Count>
+          <Count>317</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -254,7 +254,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>777</Count>
+          <Count>783</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Payment tests'">
@@ -846,7 +846,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7070</Count>
+          <Count>7083</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -918,7 +918,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>705</Count>
+          <Count>706</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>294</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Send docs to es local'">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'device simulator localhost'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'device simulator'">
@@ -1582,7 +1582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button server'</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payment tests'">
@@ -2470,7 +2470,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator localhost'</Description>
-          <Count>7</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator'">
@@ -2910,7 +2910,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>225</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Payment tests'">
@@ -3126,7 +3126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator localhost'</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator'">
@@ -3254,7 +3254,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>382</Count>
+          <Count>385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -3318,7 +3318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1968</Count>
+          <Count>1975</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
