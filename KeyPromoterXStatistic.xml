@@ -206,7 +206,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>226</Count>
+          <Count>228</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -846,7 +846,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7060</Count>
+          <Count>7061</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1033,6 +1033,14 @@
           <Count>84</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Jump to External Editor">
+        <Item>
+          <IdeaActionID>Images.EditExternally</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+4'</ShortCut>
+          <Description>Jump to External Editor</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Method...">
         <Item>
           <IdeaActionID>ExtractMethod</IdeaActionID>
@@ -1150,7 +1158,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>59</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -1574,7 +1582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button server'</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payment tests'">
@@ -2310,7 +2318,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>88</Count>
+          <Count>89</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -2902,7 +2910,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>216</Count>
+          <Count>223</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Payment tests'">
@@ -3302,7 +3310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>761</Count>
+          <Count>762</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
