@@ -1,11 +1,11 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="knopka@testing" uuid="d79ab4f2-1703-4246-9c55-42a871272e59">
+    <data-source source="LOCAL" name="knopka@localhost" uuid="d79ab4f2-1703-4246-9c55-42a871272e59">
       <driver-ref>postgresql</driver-ref>
       <synchronize>true</synchronize>
       <remarks>lifebutton</remarks>
       <jdbc-driver>org.postgresql.Driver</jdbc-driver>
-      <jdbc-url>jdbc:postgresql://localhost:5433/develop</jdbc-url>
+      <jdbc-url>jdbc:postgresql://localhost:5432/</jdbc-url>
     </data-source>
   </component>
 </application>
