@@ -32,9 +32,6 @@
   <action id="Git.Pull">
     <keyboard-shortcut first-keystroke="alt p" />
   </action>
-  <action id="Github.Create.Pull.Request">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
@@ -54,6 +51,9 @@
   </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="alt r" />
   </action>
   <action id="TabsPlacementNone">
     <keyboard-shortcut first-keystroke="alt h" />
