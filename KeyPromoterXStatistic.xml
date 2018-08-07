@@ -862,7 +862,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7135</Count>
+          <Count>7136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>121</Count>
+          <Count>122</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -2550,7 +2550,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'fixtures_generator'</Description>
-          <Count>13</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'ide-scripting.js'">
@@ -3334,7 +3334,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>768</Count>
+          <Count>769</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
