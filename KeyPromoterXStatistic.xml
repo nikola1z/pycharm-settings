@@ -537,6 +537,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'</Description>
+          <Count>4</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_websocket.TestWebSocket.test_measure_blood_pressure'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -878,7 +886,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7241</Count>
+          <Count>7243</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -950,7 +958,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>714</Count>
+          <Count>715</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1566,7 +1574,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -1687,6 +1695,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tagneta'</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for lib.qu...'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for lib.qu...'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_a...'">
@@ -2017,6 +2033,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_report_queue_handler.ReportsHandlerTest'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_report_queue_handler.ReportsHandlerTest'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_report_queue_handler.ReportsHandlerTest.test_save_reports'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2118,7 +2142,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_websocket.TestWebSocket.test_get_pulse_history'</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for test_websocket.TestWebSocket.test_make_object_photo_token'">
@@ -2582,7 +2606,7 @@
           <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'drop test … tables.sql'...</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
@@ -2854,7 +2878,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>246</Count>
+          <Count>249</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -3334,7 +3358,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tests'</Description>
-          <Count>52</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'workstation'">
@@ -3422,7 +3446,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>1995</Count>
+          <Count>2003</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -3470,7 +3494,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>600</Count>
+          <Count>602</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
