@@ -894,7 +894,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7298</Count>
+          <Count>7314</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -982,7 +982,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>1113</Count>
+          <Count>1128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>109</Count>
+          <Count>111</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1142,7 +1142,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>763</Count>
+          <Count>808</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -2582,7 +2582,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator'</Description>
-          <Count>149</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator_1'">
@@ -2694,7 +2694,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'locust'</Description>
-          <Count>139</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'locustfile'">
@@ -3278,7 +3278,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator'</Description>
-          <Count>131</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator_1'">
@@ -3438,7 +3438,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>193</Count>
+          <Count>195</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
