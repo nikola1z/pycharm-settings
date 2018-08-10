@@ -902,7 +902,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7429</Count>
+          <Count>7434</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1518,7 +1518,15 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'locust'</Description>
-          <Count>66</Count>
+          <Count>68</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Rerun 'locustfile (1)'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'locustfile (1)'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'locustfile'">
@@ -1526,7 +1534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'locustfile'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'migration tool'">
@@ -2721,6 +2729,14 @@
           <Count>14</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'locust (1)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'locust (1)'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'locust test'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2734,7 +2750,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'locust'</Description>
-          <Count>147</Count>
+          <Count>148</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'locustfile (1)'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'locustfile (1)'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'locustfile'">
@@ -2742,7 +2766,7 @@
           <IdeaActionID>RunClass</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'locustfile'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'main (1)'">
@@ -3390,7 +3414,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'locust'</Description>
-          <Count>69</Count>
+          <Count>72</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'main (1)'">
