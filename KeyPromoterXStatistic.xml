@@ -902,7 +902,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7437</Count>
+          <Count>7440</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1318,7 +1318,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>889</Count>
+          <Count>890</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1614,7 +1614,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>199</Count>
+          <Count>202</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -1678,7 +1678,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button app server'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Life button server'">
@@ -1694,7 +1694,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button tcp server'</Description>
-          <Count>14</Count>
+          <Count>15</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payment tests'">
@@ -2606,7 +2606,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator localhost'</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator offset 28000'">
@@ -2750,7 +2750,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'locust'</Description>
-          <Count>149</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'locustfile (1)'">
@@ -3486,7 +3486,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>441</Count>
+          <Count>446</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -3606,7 +3606,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>621</Count>
+          <Count>622</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
