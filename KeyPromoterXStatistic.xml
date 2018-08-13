@@ -934,7 +934,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Delete...</Description>
-          <Count>22</Count>
+          <Count>23</Count>
         </Item>
       </Statistic>
       <Statistic Action="Disconnect">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>117</Count>
+          <Count>119</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1102,6 +1102,14 @@
           <IdeaActionID>ExtractMethod</IdeaActionID>
           <ShortCut>'Ctrl+Alt+M'</ShortCut>
           <Description>Method...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Modify Index...">
+        <Item>
+          <IdeaActionID>ModifyObject</IdeaActionID>
+          <ShortCut>'Ctrl+F6'</ShortCut>
+          <Description>Modify Index...</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -1478,7 +1486,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'device simulator localhost'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'device simulator'">
@@ -1678,7 +1686,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button app server'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Life button server'">
@@ -1694,7 +1702,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button tcp server'</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Payment tests'">
@@ -2382,7 +2390,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic create migration'</Description>
-          <Count>34</Count>
+          <Count>37</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic downgrade -1'">
@@ -2454,7 +2462,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>106</Count>
+          <Count>112</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -2606,7 +2614,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator localhost'</Description>
-          <Count>57</Count>
+          <Count>58</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator offset 28000'">
@@ -2750,7 +2758,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'locust'</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'locustfile (1)'">
@@ -3334,7 +3342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator localhost'</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator offset 28000'">
@@ -3526,7 +3534,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>199</Count>
+          <Count>200</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
