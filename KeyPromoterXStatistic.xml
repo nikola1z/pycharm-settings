@@ -902,7 +902,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7505</Count>
+          <Count>7515</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3614,7 +3614,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>630</Count>
+          <Count>631</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
