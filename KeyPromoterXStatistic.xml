@@ -142,7 +142,7 @@
           <IdeaActionID>CopyReference</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+C'</ShortCut>
           <Description>Copy Reference</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -926,7 +926,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7574</Count>
+          <Count>7578</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2702,7 +2702,7 @@
           <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'drop test … tables.sql'...</Description>
-          <Count>17</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
@@ -2990,7 +2990,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>254</Count>
+          <Count>256</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -3126,7 +3126,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button app server'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Life button server'">
@@ -3502,7 +3502,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tests'</Description>
-          <Count>57</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'workstation'">
