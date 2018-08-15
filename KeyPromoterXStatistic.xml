@@ -481,6 +481,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_operator_permissions…onTesting.test_create_operator_and_group'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_operator_permissions…onTesting.test_create_operator_and_group'</Description>
+          <Count>9</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_queue.TestQueueApplic...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -926,7 +934,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7581</Count>
+          <Count>7590</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -998,7 +1006,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>734</Count>
+          <Count>735</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -2065,6 +2073,14 @@
           <Count>11</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_operator_permissions…onTesting.test_create_operator_and_group'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_operator_permissions…onTesting.test_create_operator_and_group'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_q...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -2702,7 +2718,7 @@
           <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'drop test … tables.sql'...</Description>
-          <Count>18</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
@@ -2990,7 +3006,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'tests'</Description>
-          <Count>257</Count>
+          <Count>260</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'workstation'">
@@ -3502,7 +3518,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'tests'</Description>
-          <Count>59</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'workstation'">
@@ -3582,7 +3598,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>809</Count>
+          <Count>810</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3590,7 +3606,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2036</Count>
+          <Count>2046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -3646,7 +3662,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>640</Count>
+          <Count>641</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
