@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>257</Count>
+          <Count>259</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -942,7 +942,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7631</Count>
+          <Count>7648</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1126,7 +1126,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>134</Count>
+          <Count>135</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>950</Count>
+          <Count>952</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1662,7 +1662,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>227</Count>
+          <Count>228</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
