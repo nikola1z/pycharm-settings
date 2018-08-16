@@ -942,7 +942,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7687</Count>
+          <Count>7690</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3638,7 +3638,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>120</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -3678,7 +3678,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>659</Count>
+          <Count>660</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
