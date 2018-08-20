@@ -3574,7 +3574,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>471</Count>
+          <Count>472</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
