@@ -1430,7 +1430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>316</Count>
+          <Count>318</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Life button tcp server'">
