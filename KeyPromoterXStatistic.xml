@@ -942,7 +942,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7804</Count>
+          <Count>7808</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'device simulator localhost'</Description>
-          <Count>45</Count>
+          <Count>46</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'device simulator'">
@@ -3190,7 +3190,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>266</Count>
+          <Count>267</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Life button tcp server'">
@@ -3438,7 +3438,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator localhost'</Description>
-          <Count>56</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator offset 28000'">
@@ -3710,7 +3710,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>674</Count>
+          <Count>675</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
