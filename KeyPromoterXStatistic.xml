@@ -222,7 +222,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>93</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -230,7 +230,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>264</Count>
+          <Count>265</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>348</Count>
+          <Count>349</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -286,7 +286,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'Life button server'</Description>
-          <Count>795</Count>
+          <Count>796</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Life button tcp server'">
@@ -942,7 +942,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7736</Count>
+          <Count>7744</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -966,7 +966,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>124</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>134</Count>
+          <Count>136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1374,7 +1374,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>996</Count>
+          <Count>998</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -3590,7 +3590,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>474</Count>
+          <Count>475</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -3606,7 +3606,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>361</Count>
+          <Count>362</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
