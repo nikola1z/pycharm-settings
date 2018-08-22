@@ -529,6 +529,38 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'Unittests for test_tcp.TestTCPServer'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_tcp.TestTCPServer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_tcp.TestTCPServer.test_g36_correct_packet'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_tcp.TestTCPServer.test_g36_correct_packet'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_tcp.TestTCPServer.test_ksw_correct_packet'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_tcp.TestTCPServer.test_ksw_correct_packet'</Description>
+          <Count>16</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug 'Unittests for test_tcp.TestTCPServer.test_unknown_packet'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'Unittests for test_tcp.TestTCPServer.test_unknown_packet'</Description>
+          <Count>5</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'Unittests for test_websocket.TestWebSock...'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -942,7 +974,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7857</Count>
+          <Count>7886</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2177,6 +2209,30 @@
           <Count>12</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Unittests for test_tcp.TestTCPServer'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_tcp.TestTCPServer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_tcp.TestTCPServer.test_g36_incorrect_packet'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_tcp.TestTCPServer.test_g36_incorrect_packet'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_tcp.TestTCPServer.test_ksw_correct_packet'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_tcp.TestTCPServer.test_ksw_correct_packet'</Description>
+          <Count>7</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Unittests for test_w...'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3190,7 +3246,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>273</Count>
+          <Count>275</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Life button tcp server'">
@@ -3294,6 +3350,22 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Unittests for test_swagger.TestSwaggerIsValid.test_swagger'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_tcp.TestTCPServer'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_tcp.TestTCPServer'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'Unittests for test_tcp.TestTCPServer.test_ksw_correct_packet'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Unittests for test_tcp.TestTCPServer.test_ksw_correct_packet'</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -3438,7 +3510,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator localhost'</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator offset 28000'">
@@ -3654,7 +3726,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2143</Count>
+          <Count>2182</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
