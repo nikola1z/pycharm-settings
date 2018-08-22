@@ -942,7 +942,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7833</Count>
+          <Count>7835</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1430,7 +1430,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>327</Count>
+          <Count>329</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Life button tcp server'">
@@ -1534,7 +1534,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'device simulator localhost'</Description>
-          <Count>47</Count>
+          <Count>48</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'device simulator'">
