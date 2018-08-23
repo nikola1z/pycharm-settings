@@ -1094,7 +1094,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>1191</Count>
+          <Count>1198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>153</Count>
+          <Count>154</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -3814,7 +3814,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>827</Count>
+          <Count>832</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
