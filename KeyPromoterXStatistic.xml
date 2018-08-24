@@ -46,7 +46,7 @@
           <IdeaActionID>Console.TableResult.Cancel</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Cancel Query</Description>
-          <Count>2</Count>
+          <Count>18</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cancel Running Statements">
@@ -54,7 +54,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>4</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>31</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -1262,7 +1262,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
-          <Count>16</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
