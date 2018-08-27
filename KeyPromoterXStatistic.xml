@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>276</Count>
+          <Count>277</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>129</Count>
+          <Count>130</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>26</Count>
+          <Count>27</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>51</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1068</Count>
+          <Count>1069</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -2870,7 +2870,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator'</Description>
-          <Count>169</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator_1'">
@@ -3646,7 +3646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator'</Description>
-          <Count>158</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator_1'">
@@ -3790,7 +3790,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>369</Count>
+          <Count>370</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -3814,7 +3814,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>244</Count>
+          <Count>246</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3854,7 +3854,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>123</Count>
+          <Count>124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -3894,7 +3894,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>691</Count>
+          <Count>692</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
