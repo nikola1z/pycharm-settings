@@ -142,7 +142,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>236</Count>
+          <Count>238</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>278</Count>
+          <Count>280</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1014,7 +1014,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>7985</Count>
+          <Count>7991</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>179</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1069</Count>
+          <Count>1101</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1502,7 +1502,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'Life button server'</Description>
-          <Count>353</Count>
+          <Count>355</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Life button tcp server'">
@@ -1622,7 +1622,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'device simulator localhost'</Description>
-          <Count>58</Count>
+          <Count>59</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'device simulator'">
@@ -1662,7 +1662,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'locust'</Description>
-          <Count>89</Count>
+          <Count>90</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'locustfile (1)'">
@@ -1758,7 +1758,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>264</Count>
+          <Count>268</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -1830,7 +1830,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Life button server'</Description>
-          <Count>93</Count>
+          <Count>97</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Life button tcp server'">
@@ -2614,7 +2614,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic create migration'</Description>
-          <Count>52</Count>
+          <Count>53</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic downgrade -1'">
@@ -2622,7 +2622,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic downgrade -1'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic downgrade base'">
@@ -2686,7 +2686,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>157</Count>
+          <Count>159</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -2838,7 +2838,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'db_loader'</Description>
-          <Count>38</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator localhost'">
@@ -2846,7 +2846,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator localhost'</Description>
-          <Count>91</Count>
+          <Count>96</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator offset 28000'">
@@ -2902,7 +2902,7 @@
           <IdeaActionID>Jdbc.RunSqlScript</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'drop test … tables.sql'...</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'drop_chat_rooms'">
@@ -2998,7 +2998,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'locust'</Description>
-          <Count>167</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'locustfile (1)'">
@@ -3342,7 +3342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>276</Count>
+          <Count>283</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Life button tcp server'">
@@ -3774,7 +3774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>503</Count>
+          <Count>509</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -3814,7 +3814,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>249</Count>
+          <Count>251</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3822,7 +3822,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -3830,7 +3830,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>840</Count>
+          <Count>841</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3838,7 +3838,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2260</Count>
+          <Count>2261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -3894,7 +3894,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>695</Count>
+          <Count>701</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
