@@ -3646,7 +3646,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator'</Description>
-          <Count>168</Count>
+          <Count>169</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator_1'">
@@ -3774,7 +3774,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>509</Count>
+          <Count>510</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
