@@ -19,6 +19,9 @@
     <keyboard-shortcut first-keystroke="alt x" />
   </action>
   <action id="Console.History.Browse" />
+  <action id="Console.Jdbc.ExplainPlan">
+    <keyboard-shortcut first-keystroke="alt z" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
