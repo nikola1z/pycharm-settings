@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>366</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -1382,7 +1382,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1131</Count>
+          <Count>1136</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1758,7 +1758,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>271</Count>
+          <Count>272</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -2846,7 +2846,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator localhost'</Description>
-          <Count>99</Count>
+          <Count>100</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator offset 28000'">
@@ -3342,7 +3342,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'Life button server'</Description>
-          <Count>284</Count>
+          <Count>285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Life button tcp server'">
@@ -3622,7 +3622,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator localhost'</Description>
-          <Count>62</Count>
+          <Count>63</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator offset 28000'">
@@ -3854,7 +3854,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>126</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -3894,7 +3894,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>710</Count>
+          <Count>714</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
