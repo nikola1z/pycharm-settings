@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>27</Count>
+          <Count>28</Count>
         </Item>
       </Statistic>
       <Statistic Action="Apply Current Layout">
@@ -142,7 +142,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>241</Count>
+          <Count>242</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>300</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>1208</Count>
+          <Count>1209</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>232</Count>
+          <Count>233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Index...</Description>
-          <Count>7</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Modify Table...">
@@ -1230,7 +1230,7 @@
           <IdeaActionID>ModifyObject</IdeaActionID>
           <ShortCut>'Ctrl+F6'</ShortCut>
           <Description>Modify Table...</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Move...">
@@ -1270,7 +1270,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
-          <Count>76</Count>
+          <Count>77</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>$Paste</IdeaActionID>
           <ShortCut>'Ctrl+V' or 'Shift+Insert'</ShortCut>
           <Description>Paste</Description>
-          <Count>31</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste from History...">
@@ -1446,7 +1446,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1143</Count>
+          <Count>1147</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -3798,7 +3798,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>376</Count>
+          <Count>380</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -3838,7 +3838,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>875</Count>
+          <Count>876</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
