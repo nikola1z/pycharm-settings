@@ -1014,7 +1014,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8056</Count>
+          <Count>8060</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -2166,6 +2166,14 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Unittests for test_db.DbTest.test_get_users_without_devices'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Unittests for test_db.DbTest.test_is_device_in_geozone'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Unittests for test_db.DbTest.test_is_device_in_geozone'</Description>
           <Count>2</Count>
         </Item>
       </Statistic>
@@ -3894,7 +3902,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>728</Count>
+          <Count>729</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
