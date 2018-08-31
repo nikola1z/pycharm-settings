@@ -54,7 +54,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>33</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>$Delete</IdeaActionID>
           <ShortCut>'Delete'</ShortCut>
           <Description>Drop</Description>
-          <Count>34</Count>
+          <Count>35</Count>
         </Item>
       </Statistic>
       <Statistic Action="Duplicate">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>1228</Count>
+          <Count>1235</Count>
         </Item>
       </Statistic>
       <Statistic Action="Explain Plan">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>Console.Jdbc.ExplainPlan</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Explain Plan</Description>
-          <Count>71</Count>
+          <Count>84</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1206,7 +1206,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>260</Count>
+          <Count>261</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1398,7 +1398,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>160</Count>
+          <Count>162</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3854,7 +3854,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>295</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3870,7 +3870,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>885</Count>
+          <Count>886</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3934,7 +3934,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>738</Count>
+          <Count>739</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
