@@ -230,7 +230,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>184</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>321</Count>
+          <Count>322</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -2710,7 +2710,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'alembic upgrade head'</Description>
-          <Count>166</Count>
+          <Count>167</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'alembic'">
@@ -3070,7 +3070,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'migrate all tables'</Description>
-          <Count>16</Count>
+          <Count>17</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'migration tool'">
@@ -3854,7 +3854,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>299</Count>
+          <Count>302</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3870,7 +3870,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>888</Count>
+          <Count>890</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
