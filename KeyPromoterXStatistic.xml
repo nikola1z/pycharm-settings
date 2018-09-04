@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>343</Count>
+          <Count>347</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>310</Count>
+          <Count>312</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>169</Count>
+          <Count>171</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1705,6 +1705,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'migration tool object_states'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'migration tool object_states'</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'migration tool'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1782,7 +1790,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>307</Count>
+          <Count>313</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -3110,7 +3118,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'migration tool object_mails'</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'migration tool object_states'">
@@ -3118,7 +3126,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'migration tool object_states'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'migration tool user_geozones'">
@@ -3814,6 +3822,14 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'migration tool object_mails'</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Stop 'migration tool object_states'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'migration tool object_states'</Description>
           <Count>4</Count>
         </Item>
       </Statistic>
@@ -3894,7 +3910,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>409</Count>
+          <Count>410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -3934,7 +3950,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>908</Count>
+          <Count>915</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3998,7 +4014,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>754</Count>
+          <Count>756</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
