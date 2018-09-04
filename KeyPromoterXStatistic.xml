@@ -142,7 +142,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>251</Count>
+          <Count>252</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>337</Count>
+          <Count>338</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1190,7 +1190,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>296</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1366,7 +1366,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>69</Count>
+          <Count>70</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1236</Count>
+          <Count>1239</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Auth tests'">
@@ -1782,7 +1782,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>294</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -3894,7 +3894,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>342</Count>
+          <Count>343</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -3974,7 +3974,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>750</Count>
+          <Count>753</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
