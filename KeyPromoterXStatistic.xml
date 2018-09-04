@@ -1118,7 +1118,7 @@
           <IdeaActionID>Console.Jdbc.ExplainPlan</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Explain Plan</Description>
-          <Count>123</Count>
+          <Count>125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1214</Count>
+          <Count>1220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
