@@ -1022,7 +1022,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8125</Count>
+          <Count>8131</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3263,6 +3263,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Run 'simple-rmq'</Description>
           <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'smtp_test'">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'smtp_test'</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'test'">
