@@ -230,7 +230,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>219</Count>
+          <Count>220</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8123</Count>
+          <Count>8124</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1086,7 +1086,7 @@
           <IdeaActionID>editRunConfigurations</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Edit Configurations...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1198,7 +1198,7 @@
           <IdeaActionID>ChangesView.Ignore</IdeaActionID>
           <ShortCut>'Alt+I'</ShortCut>
           <Description>Ignore...</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Implementation(s)">
@@ -4030,7 +4030,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>759</Count>
+          <Count>760</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
