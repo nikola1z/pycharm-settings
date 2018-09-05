@@ -110,7 +110,7 @@
           <IdeaActionID>Compare.Selected</IdeaActionID>
           <ShortCut>'Alt+X'</ShortCut>
           <Description>Compare with...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Configure Current File Analysis...">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8131</Count>
+          <Count>8138</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
