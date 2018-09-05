@@ -54,7 +54,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>52</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -3966,7 +3966,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>922</Count>
+          <Count>925</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
