@@ -54,7 +54,7 @@
           <IdeaActionID>Console.Jdbc.Terminate</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Cancel Running Statements</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Change Signature...">
@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>350</Count>
+          <Count>351</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1022,7 +1022,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8124</Count>
+          <Count>8125</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1038,7 +1038,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>90</Count>
+          <Count>92</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>315</Count>
+          <Count>316</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1294,7 +1294,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>Console.TableResult.PreviousPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Up'</ShortCut>
           <Description>Previous Page</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1261</Count>
+          <Count>1285</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -3926,7 +3926,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>410</Count>
+          <Count>412</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -3966,7 +3966,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>925</Count>
+          <Count>926</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
