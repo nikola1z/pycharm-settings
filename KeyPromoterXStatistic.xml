@@ -1038,7 +1038,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Row</Description>
-          <Count>92</Count>
+          <Count>94</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1285</Count>
+          <Count>1290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -3926,7 +3926,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>412</Count>
+          <Count>414</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
