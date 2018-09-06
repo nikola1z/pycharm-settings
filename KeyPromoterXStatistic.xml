@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>351</Count>
+          <Count>354</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1118,7 +1118,7 @@
           <IdeaActionID>Console.Jdbc.ExplainPlan</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Explain Plan</Description>
-          <Count>151</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1214,7 +1214,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>317</Count>
+          <Count>319</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
