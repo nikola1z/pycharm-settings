@@ -1086,7 +1086,7 @@
           <IdeaActionID>editRunConfigurations</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Edit Configurations...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -3974,7 +3974,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>930</Count>
+          <Count>931</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -3982,7 +3982,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2297</Count>
+          <Count>2298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -4038,7 +4038,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>765</Count>
+          <Count>766</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
