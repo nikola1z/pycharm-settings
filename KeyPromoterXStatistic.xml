@@ -1086,7 +1086,7 @@
           <IdeaActionID>editRunConfigurations</IdeaActionID>
           <ShortCut>'Alt+F9'</ShortCut>
           <Description>Edit Configurations...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -1406,7 +1406,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>176</Count>
+          <Count>177</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3081,6 +3081,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'mercedes'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'mercedes'</Description>
+          <Count>11</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'meta_try'">
         <Item>
           <IdeaActionID>RunClass</IdeaActionID>
@@ -3366,7 +3374,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>80</Count>
+          <Count>81</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
@@ -3974,7 +3982,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>931</Count>
+          <Count>935</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
