@@ -1030,7 +1030,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8193</Count>
+          <Count>8198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1726,7 +1726,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'mercedes'</Description>
-          <Count>8</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'migration tool object_states'">
@@ -3862,7 +3862,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
