@@ -238,7 +238,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>357</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1030,7 +1030,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8199</Count>
+          <Count>8204</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>139</Count>
+          <Count>140</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete...">
@@ -1222,7 +1222,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>319</Count>
+          <Count>320</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1294</Count>
+          <Count>1295</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator'</Description>
-          <Count>185</Count>
+          <Count>188</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator_1'">
@@ -3790,7 +3790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator'</Description>
-          <Count>182</Count>
+          <Count>187</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator_1'">
@@ -3974,7 +3974,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>415</Count>
+          <Count>416</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
