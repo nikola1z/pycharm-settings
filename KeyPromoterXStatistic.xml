@@ -1422,7 +1422,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>179</Count>
+          <Count>180</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -4022,7 +4022,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>949</Count>
+          <Count>950</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
