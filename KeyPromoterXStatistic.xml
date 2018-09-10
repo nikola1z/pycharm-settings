@@ -1030,7 +1030,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8204</Count>
+          <Count>8208</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1070,7 +1070,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>50</Count>
+          <Count>51</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -1310,7 +1310,7 @@
           <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Down'</ShortCut>
           <Description>Next Page</Description>
-          <Count>84</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Open Console">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>177</Count>
+          <Count>178</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1486,7 +1486,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1296</Count>
+          <Count>1301</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -2934,7 +2934,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'device simulator'</Description>
-          <Count>188</Count>
+          <Count>192</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'device simulator_1'">
@@ -3790,7 +3790,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'device simulator'</Description>
-          <Count>187</Count>
+          <Count>194</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'device simulator_1'">
@@ -3998,7 +3998,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>351</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -4014,7 +4014,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>939</Count>
+          <Count>941</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
