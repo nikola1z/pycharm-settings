@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>359</Count>
+          <Count>360</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -3990,7 +3990,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>416</Count>
+          <Count>417</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
