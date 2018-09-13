@@ -1038,7 +1038,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8526</Count>
+          <Count>8528</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for lib.qu...'">
