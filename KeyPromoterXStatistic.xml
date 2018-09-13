@@ -1038,7 +1038,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8510</Count>
+          <Count>8526</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1577,6 +1577,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Rerun 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'">
+        <Item>
+          <IdeaActionID>Rerun</IdeaActionID>
+          <ShortCut>'Ctrl+F5'</ShortCut>
+          <Description>Rerun 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'Unittests for test_commands_g36.G36CommandsTesting.test_change_object_card'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -1943,6 +1951,14 @@
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Tagneta'</Description>
           <Count>29</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for lib.qu...'">
@@ -4030,7 +4046,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>966</Count>
+          <Count>967</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
