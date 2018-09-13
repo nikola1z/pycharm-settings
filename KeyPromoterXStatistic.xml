@@ -1038,7 +1038,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8528</Count>
+          <Count>8531</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1953,12 +1953,28 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser.test_create_new_oidc_user'</Description>
-          <Count>7</Count>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run 'Test: app_oidc_auth.tests.test_models.T…User.test_override_data_of_existing_user'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'Test: app_oidc_auth.tests.test_models.T…User.test_override_data_of_existing_user'</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for lib.qu...'">
@@ -3406,7 +3422,7 @@
           <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Run manage.py Task...</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -4054,7 +4070,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2322</Count>
+          <Count>2323</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
