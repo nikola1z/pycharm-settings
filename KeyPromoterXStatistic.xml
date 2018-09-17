@@ -246,7 +246,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>220</Count>
+          <Count>221</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -1046,7 +1046,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8591</Count>
+          <Count>8595</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -4086,7 +4086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>995</Count>
+          <Count>997</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
