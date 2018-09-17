@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>363</Count>
+          <Count>366</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -3502,7 +3502,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>4</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -4158,7 +4158,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>800</Count>
+          <Count>801</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
