@@ -1046,7 +1046,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8643</Count>
+          <Count>8644</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1526,7 +1526,7 @@
           <IdeaActionID>RenameElement</IdeaActionID>
           <ShortCut>'Shift+F6'</ShortCut>
           <Description>Rename...</Description>
-          <Count>15</Count>
+          <Count>16</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'Auth tests'">
@@ -4086,7 +4086,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1011</Count>
+          <Count>1013</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4118,7 +4118,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -4158,7 +4158,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>815</Count>
+          <Count>817</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
