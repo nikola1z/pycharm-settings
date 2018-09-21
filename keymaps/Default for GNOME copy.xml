@@ -67,6 +67,9 @@
   <action id="TabsPlacementNone">
     <keyboard-shortcut first-keystroke="alt h" />
   </action>
+  <action id="Tool_External Tools_make check">
+    <keyboard-shortcut first-keystroke="alt begin" />
+  </action>
   <action id="Tool_External Tools_pylint">
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
