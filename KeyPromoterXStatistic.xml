@@ -2014,7 +2014,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Test: app_tags.tests.test_tags_manager.…ager.test_create_tags_for_research_model'</Description>
-          <Count>10</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Unittests for lib.qu...'">
