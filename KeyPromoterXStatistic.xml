@@ -966,7 +966,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'mercedes'</Description>
-          <Count>51</Count>
+          <Count>52</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'migrate all tables'">
@@ -1054,7 +1054,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8778</Count>
+          <Count>8783</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1985,6 +1985,14 @@
           <Count>29</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'Test: '">
+        <Item>
+          <IdeaActionID>RunClass</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F10'</ShortCut>
+          <Description>Run 'Test: '</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Run 'Test: app_oidc_auth.tests.test_models.TestOIDCUser'">
         <Item>
           <IdeaActionID>Run</IdeaActionID>
@@ -2014,7 +2022,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'Test: app_tags.tests.test_tags_manager.TestTagsManager'</Description>
-          <Count>10</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Test: app_tags.tests.test_tags_manager.…ager.test_create_tags_for_research_model'">
@@ -3966,7 +3974,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>55</Count>
+          <Count>57</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
