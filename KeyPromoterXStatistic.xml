@@ -1454,7 +1454,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>203</Count>
+          <Count>207</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3478,7 +3478,7 @@
           <IdeaActionID>Django.RunManageTaskAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+R'</ShortCut>
           <Description>Run manage.py Task...</Description>
-          <Count>3</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run to Cursor">
@@ -4134,7 +4134,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2449</Count>
+          <Count>2450</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
