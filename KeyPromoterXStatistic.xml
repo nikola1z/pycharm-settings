@@ -929,6 +929,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Debug 'import pc-sales-ms'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug 'import pc-sales-ms'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Debug 'load_to_mongo'">
         <Item>
           <IdeaActionID>Debug</IdeaActionID>
@@ -1054,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8825</Count>
+          <Count>8828</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1126,7 +1134,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>890</Count>
+          <Count>894</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -3110,7 +3118,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'import pc-sales-ms'</Description>
-          <Count>2</Count>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'import'">
@@ -3953,6 +3961,14 @@
           <Count>3</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'import pc-sales-ms'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'import pc-sales-ms'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'load_to_mongo'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4150,7 +4166,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2451</Count>
+          <Count>2452</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
