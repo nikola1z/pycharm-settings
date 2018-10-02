@@ -2,7 +2,6 @@
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Inconsolata" />
-    <option name="FONT_SCALE" value="1.25" />
     <option name="LINE_SPACING" value="1.1" />
   </component>
   <component name="EditorSettings">
@@ -12,11 +11,8 @@
         <entry key="Python" value="true" />
       </map>
     </option>
+    <option name="USE_SOFT_WRAPS" value="" />
     <option name="IS_WHITESPACES_SHOWN" value="true" />
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
-  </component>
-  <component name="SqlEditorOptions">
-    <option name="concatenateStringsOnEnter" value="true" />
-    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
