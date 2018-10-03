@@ -74,7 +74,7 @@
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
   <action id="Tool_External Tools_make check">
-    <keyboard-shortcut first-keystroke="alt begin" />
+    <keyboard-shortcut first-keystroke="alt numpad5" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift v" />
