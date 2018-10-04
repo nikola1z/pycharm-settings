@@ -1062,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>8981</Count>
+          <Count>8987</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1134,7 +1134,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>905</Count>
+          <Count>906</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
