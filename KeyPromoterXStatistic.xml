@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>367</Count>
+          <Count>368</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9049</Count>
+          <Count>9050</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3566,7 +3566,7 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>5</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -4158,7 +4158,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1060</Count>
+          <Count>1062</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4246,7 +4246,7 @@
           <IdeaActionID>Graph.ZoomIn</IdeaActionID>
           <ShortCut>'NumPad +' or '='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>1</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
     </option>
