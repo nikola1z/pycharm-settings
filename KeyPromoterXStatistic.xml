@@ -974,7 +974,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'mercedes'</Description>
-          <Count>103</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'migrate all tables'">
@@ -1062,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9192</Count>
+          <Count>9196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1102,7 +1102,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>53</Count>
+          <Count>54</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -1238,7 +1238,7 @@
           <IdeaActionID>HideAllWindows</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F12'</ShortCut>
           <Description>Hide All Windows</Description>
-          <Count>74</Count>
+          <Count>75</Count>
         </Item>
       </Statistic>
       <Statistic Action="Ignore...">
@@ -1422,7 +1422,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>78</Count>
+          <Count>79</Count>
         </Item>
       </Statistic>
       <Statistic Action="Project Directory">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>253</Count>
+          <Count>255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3542,7 +3542,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>114</Count>
+          <Count>117</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -4014,7 +4014,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>103</Count>
+          <Count>106</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4166,7 +4166,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1081</Count>
+          <Count>1082</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4198,7 +4198,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>149</Count>
+          <Count>152</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -4238,7 +4238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>874</Count>
+          <Count>879</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
