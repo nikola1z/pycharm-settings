@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>373</Count>
+          <Count>374</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -3577,12 +3577,20 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show Visualisation Popup...">
+        <Item>
+          <IdeaActionID>ShowUmlDiagramPopup</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+U'</ShortCut>
+          <Description>Show Visualisation Popup...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Show Visualisation...">
         <Item>
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Visualisation...</Description>
-          <Count>6</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Source Editor">
@@ -4278,7 +4286,15 @@
           <IdeaActionID>Graph.ZoomIn</IdeaActionID>
           <ShortCut>'NumPad +' or '='</ShortCut>
           <Description>Zoom In</Description>
-          <Count>6</Count>
+          <Count>13</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Zoom Out">
+        <Item>
+          <IdeaActionID>UML.ZoomOut</IdeaActionID>
+          <ShortCut>'Ctrl+NumPad -' or 'Ctrl+Minus'</ShortCut>
+          <Description>Zoom Out</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
     </option>
