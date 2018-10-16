@@ -1062,7 +1062,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9306</Count>
+          <Count>9309</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1462,7 +1462,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>268</Count>
+          <Count>269</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
