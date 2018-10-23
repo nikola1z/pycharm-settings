@@ -1142,7 +1142,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>954</Count>
+          <Count>955</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1470,7 +1470,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>277</Count>
+          <Count>279</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3689,6 +3689,14 @@
           <Count>19</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'Python Console Debugger'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'Python Console Debugger'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Stop 'Reports test'">
         <Item>
           <IdeaActionID>Stop</IdeaActionID>
@@ -4230,7 +4238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1101</Count>
+          <Count>1102</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
