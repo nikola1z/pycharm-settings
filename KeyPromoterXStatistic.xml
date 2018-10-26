@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>386</Count>
+          <Count>387</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
