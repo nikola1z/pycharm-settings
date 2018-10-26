@@ -982,7 +982,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'mercedes'</Description>
-          <Count>120</Count>
+          <Count>121</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'migrate all tables'">
@@ -1070,7 +1070,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9553</Count>
+          <Count>9555</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1870,7 +1870,7 @@
           <IdeaActionID>ChangesView.Revert</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Z'</ShortCut>
           <Description>Revert...</Description>
-          <Count>70</Count>
+          <Count>71</Count>
         </Item>
       </Statistic>
       <Statistic Action="Right">
@@ -3270,7 +3270,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'mercedes'</Description>
-          <Count>29</Count>
+          <Count>30</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'meta_try'">
@@ -4086,7 +4086,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>133</Count>
+          <Count>134</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4238,7 +4238,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1107</Count>
+          <Count>1108</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4310,7 +4310,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>944</Count>
+          <Count>945</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
