@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>383</Count>
+          <Count>384</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -4310,7 +4310,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>941</Count>
+          <Count>942</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
