@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>385</Count>
+          <Count>386</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>292</Count>
+          <Count>293</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1542,7 +1542,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1314</Count>
+          <Count>1315</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
