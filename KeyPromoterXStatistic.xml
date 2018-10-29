@@ -1070,7 +1070,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9572</Count>
+          <Count>9575</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1478,7 +1478,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>296</Count>
+          <Count>297</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1814,7 +1814,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'mercedes'</Description>
-          <Count>171</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'migration tool object_states'">
@@ -1881,6 +1881,14 @@
           <Count>71</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reword...">
+        <Item>
+          <IdeaActionID>Git.Reword.Commit</IdeaActionID>
+          <ShortCut>'F2' or 'Shift+F6'</ShortCut>
+          <Description>Reword...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Right">
         <Item>
           <IdeaActionID>TabsPlacementRight</IdeaActionID>
@@ -1902,7 +1910,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>351</Count>
+          <Count>352</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -4318,7 +4326,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>952</Count>
+          <Count>953</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
