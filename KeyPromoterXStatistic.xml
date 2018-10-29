@@ -1478,7 +1478,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>294</Count>
+          <Count>296</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
