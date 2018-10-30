@@ -1814,7 +1814,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'mercedes'</Description>
-          <Count>174</Count>
+          <Count>175</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'migration tool object_states'">
@@ -3286,7 +3286,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'mercedes'</Description>
-          <Count>33</Count>
+          <Count>34</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'meta_try'">
