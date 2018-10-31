@@ -10,7 +10,7 @@
     <exec>
       <option name="COMMAND" value="/usr/bin/make" />
       <option name="PARAMETERS" value="check" />
-      <option name="WORKING_DIRECTORY" value="$USER_HOME$/workspace/mercedes/backend" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/workspace/_mercedes/backend" />
     </exec>
   </tool>
 </toolSet>
