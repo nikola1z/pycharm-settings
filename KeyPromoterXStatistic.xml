@@ -246,7 +246,7 @@
           <IdeaActionID>DatabaseView.PropertiesAction</IdeaActionID>
           <ShortCut>'Alt+Enter'</ShortCut>
           <Description>Data Source Properties</Description>
-          <Count>229</Count>
+          <Count>231</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database">
@@ -1110,7 +1110,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -1271,6 +1271,14 @@
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
           <Count>324</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Jump to Editor">
+        <Item>
+          <IdeaActionID>Jdbc.OpenEditor</IdeaActionID>
+          <ShortCut>'F4'</ShortCut>
+          <Description>Jump to Editor</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to External Editor">
@@ -3606,7 +3614,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>136</Count>
+          <Count>137</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -4254,7 +4262,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>365</Count>
+          <Count>367</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
