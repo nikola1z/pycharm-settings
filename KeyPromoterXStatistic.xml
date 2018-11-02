@@ -1857,6 +1857,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Reset Task">
+        <Item>
+          <IdeaActionID>Educational.RefreshTask</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+X'</ShortCut>
+          <Description>Reset Task</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Restore Windows">
         <Item>
           <IdeaActionID>HideAllWindows</IdeaActionID>
