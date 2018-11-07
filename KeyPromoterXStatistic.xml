@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>310</Count>
+          <Count>311</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1331</Count>
+          <Count>1332</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -4382,7 +4382,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>993</Count>
+          <Count>994</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
