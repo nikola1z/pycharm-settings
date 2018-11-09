@@ -18,6 +18,10 @@
           <option name="url" value="http://gitlab.agimagroup.ru" />
           <option name="userName" value="ext_npetruhin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.osinit.com" />
+          <option name="userName" value="nikolay.petruhin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
