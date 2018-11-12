@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9874</Count>
+          <Count>9875</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -4310,7 +4310,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1127</Count>
+          <Count>1128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
