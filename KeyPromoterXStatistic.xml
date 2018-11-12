@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9919</Count>
+          <Count>9929</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>999</Count>
+          <Count>1001</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>341</Count>
+          <Count>342</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1838,7 +1838,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'mercedes'</Description>
-          <Count>208</Count>
+          <Count>210</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'migration tool object_states'">
@@ -4158,7 +4158,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>160</Count>
+          <Count>161</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4318,7 +4318,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2634</Count>
+          <Count>2637</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -4382,7 +4382,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1012</Count>
+          <Count>1013</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
