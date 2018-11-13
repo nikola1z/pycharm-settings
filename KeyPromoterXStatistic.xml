@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>438</Count>
+          <Count>439</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>9971</Count>
+          <Count>9973</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1352</Count>
+          <Count>1354</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -4158,7 +4158,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>162</Count>
+          <Count>163</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4382,7 +4382,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1017</Count>
+          <Count>1018</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
