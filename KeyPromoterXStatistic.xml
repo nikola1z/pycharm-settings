@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>353</Count>
+          <Count>354</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -4398,7 +4398,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1051</Count>
+          <Count>1052</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
