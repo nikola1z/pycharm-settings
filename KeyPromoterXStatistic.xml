@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>445</Count>
+          <Count>448</Count>
         </Item>
       </Statistic>
       <Statistic Action="Database Tools...">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10225</Count>
+          <Count>10233</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>357</Count>
+          <Count>358</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -4326,7 +4326,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1141</Count>
+          <Count>1142</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
