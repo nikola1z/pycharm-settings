@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10214</Count>
+          <Count>10217</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3710,7 +3710,7 @@
           <IdeaActionID>SplitVertically</IdeaActionID>
           <ShortCut>'Alt+V'</ShortCut>
           <Description>Split Vertically</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'Balance tests'">
