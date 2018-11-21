@@ -14,7 +14,7 @@
           <IdeaActionID>Console.TableResult.AddRow</IdeaActionID>
           <ShortCut>'Alt+Insert'</ShortCut>
           <Description>Add New Row</Description>
-          <Count>32</Count>
+          <Count>33</Count>
         </Item>
       </Statistic>
       <Statistic Action="Add to VCS">
@@ -126,7 +126,7 @@
           <IdeaActionID>Compare.Selected</IdeaActionID>
           <ShortCut>'Alt+X'</ShortCut>
           <Description>Compare with...</Description>
-          <Count>6</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Configure Current File Analysis...">
@@ -158,7 +158,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>297</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -198,7 +198,7 @@
           <IdeaActionID>XDebugger.CopyValue</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy Value</Description>
-          <Count>25</Count>
+          <Count>26</Count>
         </Item>
       </Statistic>
       <Statistic Action="Create Pull Request">
@@ -270,7 +270,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>455</Count>
+          <Count>457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -990,7 +990,7 @@
           <IdeaActionID>Debug</IdeaActionID>
           <ShortCut>'Shift+F9'</ShortCut>
           <Description>Debug 'mercedes'</Description>
-          <Count>138</Count>
+          <Count>139</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'migrate all tables'">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10385</Count>
+          <Count>10429</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1150,7 +1150,7 @@
           <IdeaActionID>EvaluateExpression</IdeaActionID>
           <ShortCut>'Alt+Shift+8'</ShortCut>
           <Description>Evaluate Expression...</Description>
-          <Count>1063</Count>
+          <Count>1065</Count>
         </Item>
       </Statistic>
       <Statistic Action="Exclude">
@@ -1166,7 +1166,7 @@
           <IdeaActionID>Console.Jdbc.Execute</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Execute</Description>
-          <Count>1301</Count>
+          <Count>1302</Count>
         </Item>
       </Statistic>
       <Statistic Action="Explain Plan">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>336</Count>
+          <Count>337</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -1358,7 +1358,7 @@
           <IdeaActionID>FileChooser.NewFolder</IdeaActionID>
           <ShortCut>'Alt+Insert' or 'Ctrl+N'</ShortCut>
           <Description>New Folder...</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="New Scratch File">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>358</Count>
+          <Count>359</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1363</Count>
+          <Count>1367</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1950,7 +1950,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>390</Count>
+          <Count>392</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -3334,7 +3334,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'mercedes'</Description>
-          <Count>65</Count>
+          <Count>68</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'meta_try'">
@@ -3662,7 +3662,7 @@
           <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
           <ShortCut>'Alt+Page Up'</ShortCut>
           <Description>Show History</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Local Changes as UML">
@@ -4174,7 +4174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>174</Count>
+          <Count>179</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4286,7 +4286,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>421</Count>
+          <Count>424</Count>
         </Item>
       </Statistic>
       <Statistic Action="Surround With...">
@@ -4334,7 +4334,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2720</Count>
+          <Count>2722</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
