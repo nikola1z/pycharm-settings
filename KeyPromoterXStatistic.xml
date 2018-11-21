@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>10353</Count>
+          <Count>10380</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -3334,7 +3334,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'mercedes'</Description>
-          <Count>63</Count>
+          <Count>64</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'meta_try'">
@@ -4174,7 +4174,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>172</Count>
+          <Count>174</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4398,7 +4398,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1062</Count>
+          <Count>1064</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
