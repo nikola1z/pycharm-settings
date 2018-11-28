@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11020</Count>
+          <Count>11046</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -4182,7 +4182,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>269</Count>
+          <Count>270</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
