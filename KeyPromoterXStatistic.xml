@@ -270,7 +270,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>470</Count>
+          <Count>471</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11285</Count>
+          <Count>11290</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>409</Count>
+          <Count>410</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1459</Count>
+          <Count>1461</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>459</Count>
+          <Count>461</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -3358,7 +3358,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'mercedes'</Description>
-          <Count>122</Count>
+          <Count>123</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'meta_try'">
@@ -4206,7 +4206,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop 'mercedes'</Description>
-          <Count>302</Count>
+          <Count>304</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop 'migrate all tables'">
@@ -4350,7 +4350,7 @@
           <IdeaActionID>ActivateTODOToolWindow</IdeaActionID>
           <ShortCut>'Alt+6'</ShortCut>
           <Description>TODO</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Terminal">
@@ -4358,7 +4358,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1180</Count>
+          <Count>1181</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4430,7 +4430,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1131</Count>
+          <Count>1135</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
