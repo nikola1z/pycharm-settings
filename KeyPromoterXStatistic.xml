@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11245</Count>
+          <Count>11255</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1174,7 +1174,7 @@
           <IdeaActionID>Console.Jdbc.ExplainPlan</IdeaActionID>
           <ShortCut>'Alt+Z'</ShortCut>
           <Description>Explain Plan</Description>
-          <Count>152</Count>
+          <Count>153</Count>
         </Item>
       </Statistic>
       <Statistic Action="Expression Type">
@@ -1278,7 +1278,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>378</Count>
+          <Count>381</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1447</Count>
+          <Count>1449</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
@@ -1854,7 +1854,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'mercedes'</Description>
-          <Count>296</Count>
+          <Count>298</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun 'migration tool object_states'">
@@ -1958,7 +1958,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>455</Count>
+          <Count>457</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
