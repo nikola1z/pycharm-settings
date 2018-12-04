@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11450</Count>
+          <Count>11461</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>418</Count>
+          <Count>419</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -1558,7 +1558,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>1464</Count>
+          <Count>1465</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remove">
