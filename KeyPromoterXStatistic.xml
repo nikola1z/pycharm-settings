@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11431</Count>
+          <Count>11447</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -4374,7 +4374,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>2932</Count>
+          <Count>2933</Count>
         </Item>
       </Statistic>
       <Statistic Action="Translate action">
@@ -4438,7 +4438,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1145</Count>
+          <Count>1146</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
