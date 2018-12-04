@@ -270,7 +270,7 @@
           <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
           <ShortCut>'Alt+5'</ShortCut>
           <Description>Debug</Description>
-          <Count>475</Count>
+          <Count>476</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug 'Auth tests'">
@@ -1078,7 +1078,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11361</Count>
+          <Count>11385</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1494,7 +1494,7 @@
           <IdeaActionID>ActivatePythonConsoleToolWindow</IdeaActionID>
           <ShortCut>'Alt+F11'</ShortCut>
           <Description>Python Console</Description>
-          <Count>417</Count>
+          <Count>418</Count>
         </Item>
       </Statistic>
       <Statistic Action="Quick Definition">
@@ -3670,7 +3670,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>150</Count>
+          <Count>151</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -4366,7 +4366,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>1189</Count>
+          <Count>1190</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -4398,7 +4398,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>192</Count>
+          <Count>193</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -4438,7 +4438,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1141</Count>
+          <Count>1145</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
