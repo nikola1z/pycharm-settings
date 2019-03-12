@@ -1,0 +1,14 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="sB6YZpbWfbSQkzfGUCkP" />
+          <option name="apiUrl" value="https://gitlab.agimagroup.ru/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.agimagroup.ru" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>
