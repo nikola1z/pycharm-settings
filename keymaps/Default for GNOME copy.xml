@@ -11,6 +11,7 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl numpad7" />
     <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
   </action>
   <action id="ChangesView.Ignore">
     <keyboard-shortcut first-keystroke="alt i" />
@@ -34,6 +35,7 @@
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl numpad9" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <keyboard-shortcut first-keystroke="ctrl numpad3" />
   </action>
   <action id="Git.Branches">
     <keyboard-shortcut first-keystroke="alt b" />
