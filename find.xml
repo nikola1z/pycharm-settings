@@ -15,6 +15,7 @@
     <mask>*.mxml</mask>
     <mask>models.py</mask>
     <mask>admin.py</mask>
+    <mask>api_urls.py</mask>
     <mask>*.py</mask>
   </component>
 </application>
