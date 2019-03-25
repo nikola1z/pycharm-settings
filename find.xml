@@ -14,6 +14,7 @@
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>models.py</mask>
+    <mask>admin.py</mask>
     <mask>*.py</mask>
   </component>
 </application>
