@@ -3,8 +3,14 @@
     <option name="gitlabServers">
       <list>
         <GitlabServer>
-          <option name="apiToken" value="sB6YZpbWfbSQkzfGUCkP" />
+          <option name="apiToken" value="ddeJ69kLi9qZYc-ALhPc" />
           <option name="apiUrl" value="https://gitlab.agimagroup.ru/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.agimagroup.ru/x5-5ka/" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="ddeJ69kLi9qZYc-ALhPc" />
+          <option name="apiUrl" value="https://gitlab.agimagroup.ru" />
           <option name="removeSourceBranch" value="false" />
           <option name="repositoryUrl" value="gitlab.agimagroup.ru" />
         </GitlabServer>
