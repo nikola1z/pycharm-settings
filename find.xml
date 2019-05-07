@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="serializers.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -12,11 +13,11 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>serializers.py</mask>
     <mask>api_urls.py</mask>
     <mask>models.py</mask>
     <mask>test*.py</mask>
     <mask>admin.py</mask>
     <mask>*.py</mask>
+    <mask>serializers.py</mask>
   </component>
 </application>
