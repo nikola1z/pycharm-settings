@@ -13,6 +13,7 @@
       <mapping pattern="список купонов" type="PLAIN_TEXT" />
       <mapping pattern="hosts" type="PLAIN_TEXT" />
       <mapping pattern="botworld" type="PLAIN_TEXT" />
+      <mapping pattern="remote" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
       <mapping ext="template" type="nginx file type" />
