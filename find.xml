@@ -5,6 +5,7 @@
     <option name="localWholeWordsOnly" value="true" />
     <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="test*.py" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -16,9 +17,9 @@
     <mask>*.mxml</mask>
     <mask>api_urls.py</mask>
     <mask>models.py</mask>
-    <mask>test*.py</mask>
     <mask>admin.py</mask>
     <mask>serializers.py</mask>
     <mask>*.py</mask>
+    <mask>test*.py</mask>
   </component>
 </application>
