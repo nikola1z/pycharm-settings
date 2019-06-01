@@ -30,6 +30,9 @@
   <action id="Console.Jdbc.ExplainPlan">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="DatabaseView.Tools.TruncateTableAction">
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
