@@ -103,6 +103,9 @@
   <action id="com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction">
     <keyboard-shortcut first-keystroke="alt s" />
   </action>
+  <action id="com.jetbrains.python.console.RunPythonConsoleAction">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
