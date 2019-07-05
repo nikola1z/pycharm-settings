@@ -1278,7 +1278,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>388</Count>
+          <Count>392</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -4350,7 +4350,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>381</Count>
+          <Count>382</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
