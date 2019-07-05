@@ -1,12 +1,68 @@
 <application>
   <component name="KeyPromoterXStatistic">
     <option name="statistics">
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'Alt+A'</ShortCut>
+          <Description>Annotate</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Database">
+        <Item>
+          <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
+          <ShortCut>'Alt+D'</ShortCut>
+          <Description>Database</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug">
+        <Item>
+          <IdeaActionID>ActivateDebugToolWindow</IdeaActionID>
+          <ShortCut>'Alt+5'</ShortCut>
+          <Description>Debug</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '5ka admin'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '5ka admin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Debug '5ka server'">
+        <Item>
+          <IdeaActionID>Debug</IdeaActionID>
+          <ShortCut>'Shift+F9'</ShortCut>
+          <Description>Debug '5ka server'</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Declaration">
         <Item>
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>3</Count>
+          <Count>19</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Rows">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Ctrl+Y'</ShortCut>
+          <Description>Delete Rows</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Evaluate Expression...">
+        <Item>
+          <IdeaActionID>EvaluateExpression</IdeaActionID>
+          <ShortCut>'Alt+E'</ShortCut>
+          <Description>Evaluate Expression...</Description>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Python Console">
@@ -17,11 +73,43 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Shelve Silently">
+        <Item>
+          <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+H'</ShortCut>
+          <Description>Shelve Silently</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Submit">
+        <Item>
+          <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
+          <ShortCut>'Ctrl+Enter'</ShortCut>
+          <Description>Submit</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Terminal">
+        <Item>
+          <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
+          <ShortCut>'Alt+8'</ShortCut>
+          <Description>Terminal</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
         <Item>
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
+          <Count>8</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Unshelve Silently">
+        <Item>
+          <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+U'</ShortCut>
+          <Description>Unshelve Silently</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
@@ -30,7 +118,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
     </option>
