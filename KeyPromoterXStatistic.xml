@@ -25,6 +25,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Annotate">
+        <Item>
+          <IdeaActionID>Annotate</IdeaActionID>
+          <ShortCut>'Alt+A'</ShortCut>
+          <Description>Annotate</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Apply Current Layout">
         <Item>
           <IdeaActionID>UML.ApplyCurrentLayout</IdeaActionID>
@@ -158,7 +166,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>329</Count>
+          <Count>330</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Path">
@@ -1078,7 +1086,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click'</ShortCut>
           <Description>Declaration</Description>
-          <Count>11497</Count>
+          <Count>11498</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete">
@@ -1118,7 +1126,7 @@
           <IdeaActionID>DatabaseView.CloseConnectionAction</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Disconnect</Description>
-          <Count>58</Count>
+          <Count>61</Count>
         </Item>
       </Statistic>
       <Statistic Action="Drop">
@@ -1278,7 +1286,7 @@
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F10'</ShortCut>
           <Description>Jump to Console...</Description>
-          <Count>392</Count>
+          <Count>393</Count>
         </Item>
       </Statistic>
       <Statistic Action="Jump to Editor">
@@ -1959,6 +1967,22 @@
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
           <Count>467</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '5ka admin'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '5ka admin'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Run '5ka server'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run '5ka server'</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'Anna start'">
@@ -3670,7 +3694,7 @@
           <IdeaActionID>ChangesView.ShelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+H'</ShortCut>
           <Description>Shelve Silently</Description>
-          <Count>151</Count>
+          <Count>156</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diff">
@@ -4310,7 +4334,7 @@
           <IdeaActionID>Stop</IdeaActionID>
           <ShortCut>'Ctrl+F2'</ShortCut>
           <Description>Stop...</Description>
-          <Count>543</Count>
+          <Count>544</Count>
         </Item>
       </Statistic>
       <Statistic Action="Structure">
@@ -4350,7 +4374,7 @@
           <IdeaActionID>DatabaseView.SynchronizeAction</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Synchronize</Description>
-          <Count>382</Count>
+          <Count>384</Count>
         </Item>
       </Statistic>
       <Statistic Action="TODO">
@@ -4398,7 +4422,7 @@
           <IdeaActionID>ChangesView.UnshelveSilently</IdeaActionID>
           <ShortCut>'Ctrl+Alt+U'</ShortCut>
           <Description>Unshelve Silently</Description>
-          <Count>193</Count>
+          <Count>198</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve...">
@@ -4438,7 +4462,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>1151</Count>
+          <Count>1167</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
