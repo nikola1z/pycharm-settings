@@ -76,6 +76,10 @@
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ShowNavBar">
+    <keyboard-shortcut first-keystroke="alt home" />
+    <keyboard-shortcut first-keystroke="alt home" second-keystroke="alt numpad7" />
+  </action>
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
