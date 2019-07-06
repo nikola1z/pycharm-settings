@@ -15,6 +15,7 @@
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="список купонов.txt" type="PLAIN_TEXT" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
+      <mapping ext="stop" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
