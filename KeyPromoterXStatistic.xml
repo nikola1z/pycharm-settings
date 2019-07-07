@@ -121,6 +121,14 @@
           <Count>6</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Remote Host">
+        <Item>
+          <IdeaActionID>ActivateRemoteHostToolWindow</IdeaActionID>
+          <ShortCut>'Ctrl+Comma'</ShortCut>
+          <Description>Remote Host</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Rerun 'synonym server'">
         <Item>
           <IdeaActionID>Rerun</IdeaActionID>
@@ -177,6 +185,14 @@
           <Count>1</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Show History">
+        <Item>
+          <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
+          <ShortCut>'Alt+Page Up'</ShortCut>
+          <Description>Show History</Description>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Submit">
         <Item>
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
@@ -198,7 +214,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Terminal</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -222,7 +238,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>9</Count>
+          <Count>11</Count>
         </Item>
       </Statistic>
     </option>
