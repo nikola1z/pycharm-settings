@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>1</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -62,7 +62,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>31</Count>
+          <Count>39</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -126,7 +126,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'serve'</Description>
-          <Count>1</Count>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'synonym server'">
@@ -134,7 +134,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'synonym server'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Shelve Silently">
