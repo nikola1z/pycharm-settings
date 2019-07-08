@@ -217,6 +217,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Stop 'serve'">
+        <Item>
+          <IdeaActionID>Stop</IdeaActionID>
+          <ShortCut>'Ctrl+F2'</ShortCut>
+          <Description>Stop 'serve'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Submit">
         <Item>
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
