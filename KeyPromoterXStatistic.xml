@@ -129,6 +129,14 @@
           <Count>2</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Next Page">
+        <Item>
+          <IdeaActionID>Console.TableResult.NextPage</IdeaActionID>
+          <ShortCut>'Ctrl+Alt+Down'</ShortCut>
+          <Description>Next Page</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Project">
         <Item>
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
