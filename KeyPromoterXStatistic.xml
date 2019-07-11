@@ -105,6 +105,14 @@
           <Count>57</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Explain Plan">
+        <Item>
+          <IdeaActionID>Console.Jdbc.ExplainPlan</IdeaActionID>
+          <ShortCut>'Alt+Z'</ShortCut>
+          <Description>Explain Plan</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Jump to Console...">
         <Item>
           <IdeaActionID>Jdbc.OpenConsole.Any</IdeaActionID>
@@ -254,7 +262,7 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'geo'</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run 'rest-api_1#1'">
