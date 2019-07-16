@@ -86,7 +86,15 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration</Description>
-          <Count>231</Count>
+          <Count>233</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Delete Row">
+        <Item>
+          <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
+          <ShortCut>'Ctrl+Y'</ShortCut>
+          <Description>Delete Row</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Rows">
@@ -94,7 +102,7 @@
           <IdeaActionID>Console.TableResult.DeleteRows</IdeaActionID>
           <ShortCut>'Ctrl+Y'</ShortCut>
           <Description>Delete Rows</Description>
-          <Count>2</Count>
+          <Count>4</Count>
         </Item>
       </Statistic>
       <Statistic Action="Evaluate Expression...">
@@ -174,7 +182,7 @@
           <IdeaActionID>Console.TableResult.Reload</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Reload Page</Description>
-          <Count>15</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Remote Host">
@@ -350,7 +358,7 @@
           <IdeaActionID>Console.TableResult.Submit</IdeaActionID>
           <ShortCut>'Ctrl+Enter'</ShortCut>
           <Description>Submit</Description>
-          <Count>2</Count>
+          <Count>6</Count>
         </Item>
       </Statistic>
       <Statistic Action="Synchronize">
@@ -374,7 +382,7 @@
           <IdeaActionID>ToggleLineBreakpoint</IdeaActionID>
           <ShortCut>'Ctrl+F8'</ShortCut>
           <Description>Toggle Line Breakpoint</Description>
-          <Count>106</Count>
+          <Count>110</Count>
         </Item>
       </Statistic>
       <Statistic Action="Unshelve Silently">
