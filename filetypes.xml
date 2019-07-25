@@ -18,6 +18,7 @@
       <mapping ext="stop" type="PLAIN_TEXT" />
       <mapping ext="conf" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
       <mapping ext="template" type="nginx file type" />
     </extensionMap>
