@@ -5,6 +5,7 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping ext="j2" type="HTML" />
+      <mapping ext="make" type="Makefile" />
       <mapping pattern="masterformcategories.json" type="PLAIN_TEXT" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tcp" type="PLAIN_TEXT" />
