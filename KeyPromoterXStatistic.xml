@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateRemoteHostToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Comma'</ShortCut>
           <Description>Remote Host</Description>
-          <Count>7</Count>
+          <Count>8</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '5ka admin'">
