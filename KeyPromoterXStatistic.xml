@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>41</Count>
+          <Count>42</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -222,7 +222,7 @@
           <IdeaActionID>ActivateRemoteHostToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Comma'</ShortCut>
           <Description>Remote Host</Description>
-          <Count>8</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '5ka admin'">
