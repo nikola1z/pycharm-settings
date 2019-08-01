@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>19</Count>
+          <Count>20</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '5ka admin'">
@@ -438,7 +438,15 @@
           <IdeaActionID>Run</IdeaActionID>
           <ShortCut>'Shift+F10'</ShortCut>
           <Description>Run 'synonym server'</Description>
-          <Count>9</Count>
+          <Count>10</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Save All">
+        <Item>
+          <IdeaActionID>SaveAll</IdeaActionID>
+          <ShortCut>'Ctrl+S'</ShortCut>
+          <Description>Save All</Description>
+          <Count>2</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -534,7 +542,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Terminal</Description>
-          <Count>29</Count>
+          <Count>32</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
