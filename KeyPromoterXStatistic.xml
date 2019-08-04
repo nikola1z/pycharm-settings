@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>54</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -310,7 +310,7 @@
           <IdeaActionID>Rerun</IdeaActionID>
           <ShortCut>'Ctrl+F5'</ShortCut>
           <Description>Rerun 'synonym server'</Description>
-          <Count>5</Count>
+          <Count>7</Count>
         </Item>
       </Statistic>
       <Statistic Action="Resume Program">
@@ -326,7 +326,7 @@
           <IdeaActionID>ActivateRunToolWindow</IdeaActionID>
           <ShortCut>'Alt+4'</ShortCut>
           <Description>Run</Description>
-          <Count>20</Count>
+          <Count>21</Count>
         </Item>
       </Statistic>
       <Statistic Action="Run '5ka admin'">
@@ -441,6 +441,14 @@
           <Count>10</Count>
         </Item>
       </Statistic>
+      <Statistic Action="Run 'synonymizer/Dockerfile'">
+        <Item>
+          <IdeaActionID>Run</IdeaActionID>
+          <ShortCut>'Shift+F10'</ShortCut>
+          <Description>Run 'synonymizer/Dockerfile'</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
       <Statistic Action="Save All">
         <Item>
           <IdeaActionID>SaveAll</IdeaActionID>
@@ -470,7 +478,7 @@
           <IdeaActionID>LocalHistory.ShowHistory</IdeaActionID>
           <ShortCut>'Alt+Page Up'</ShortCut>
           <Description>Show History</Description>
-          <Count>7</Count>
+          <Count>9</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '5ka admin'">
@@ -542,7 +550,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+8'</ShortCut>
           <Description>Terminal</Description>
-          <Count>33</Count>
+          <Count>36</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -566,7 +574,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>48</Count>
+          <Count>49</Count>
         </Item>
       </Statistic>
       <Statistic Action="View Breakpoints...">
