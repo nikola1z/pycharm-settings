@@ -38,7 +38,7 @@
           <IdeaActionID>ActivateDatabaseToolWindow</IdeaActionID>
           <ShortCut>'Alt+D'</ShortCut>
           <Description>Database</Description>
-          <Count>22</Count>
+          <Count>24</Count>
         </Item>
       </Statistic>
       <Statistic Action="Debug">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateRemoteHostToolWindow</IdeaActionID>
           <ShortCut>'Ctrl+Comma'</ShortCut>
           <Description>Remote Host</Description>
-          <Count>9</Count>
+          <Count>10</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rerun '5ka admin'">
