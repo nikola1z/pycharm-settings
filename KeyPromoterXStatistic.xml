@@ -6,7 +6,7 @@
           <IdeaActionID>Annotate</IdeaActionID>
           <ShortCut>'Alt+A'</ShortCut>
           <Description>Annotate</Description>
-          <Count>79</Count>
+          <Count>85</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy Relative Path">
@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>124</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
