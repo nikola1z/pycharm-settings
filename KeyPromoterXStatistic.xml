@@ -118,7 +118,7 @@
           <IdeaActionID>GotoDeclaration</IdeaActionID>
           <ShortCut>'Ctrl+B'</ShortCut>
           <Description>Declaration or Usages</Description>
-          <Count>128</Count>
+          <Count>129</Count>
         </Item>
       </Statistic>
       <Statistic Action="Delete Row">
@@ -527,6 +527,14 @@
           <ShortCut>'Alt+Page Up'</ShortCut>
           <Description>Show History</Description>
           <Count>14</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Start SSH session...">
+        <Item>
+          <IdeaActionID>com.jetbrains.plugins.remotesdk.console.RunSshConsoleAction</IdeaActionID>
+          <ShortCut>'Alt+S'</ShortCut>
+          <Description>Start SSH session...</Description>
+          <Count>1</Count>
         </Item>
       </Statistic>
       <Statistic Action="Stop '5ka admin'">
