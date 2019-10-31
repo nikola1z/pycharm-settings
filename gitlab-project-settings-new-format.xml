@@ -14,6 +14,12 @@
           <option name="removeSourceBranch" value="false" />
           <option name="repositoryUrl" value="gitlab.agimagroup.ru" />
         </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="vZBNxHyr3dH_SyHEp_Fy" />
+          <option name="apiUrl" value="http://gitlab.zclick.biz" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.zclick.biz" />
+        </GitlabServer>
       </list>
     </option>
   </component>
