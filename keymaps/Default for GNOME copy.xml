@@ -8,6 +8,7 @@
   <action id="ActivateRemoteHostToolWindow">
     <keyboard-shortcut first-keystroke="ctrl comma" />
   </action>
+  <action id="ActivateServicesToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt 8" />
   </action>
