@@ -76,6 +76,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="RunClass">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="RunJsbtTask" />
   <action id="SelectInProjectView">
     <keyboard-shortcut first-keystroke="alt c" />
@@ -87,9 +90,7 @@
   <action id="SplitVertically">
     <keyboard-shortcut first-keystroke="alt v" />
   </action>
-  <action id="Synchronize">
-    <keyboard-shortcut first-keystroke="alt r" />
-  </action>
+  <action id="Synchronize" />
   <action id="TabsAlphabeticalMode">
     <keyboard-shortcut first-keystroke="alt num_lock" />
   </action>
