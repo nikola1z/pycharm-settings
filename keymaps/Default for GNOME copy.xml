@@ -100,6 +100,9 @@
   <action id="TabsPlacementRight">
     <keyboard-shortcut first-keystroke="alt add" />
   </action>
+  <action id="Tool_External Tools_black">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Tool_External Tools_make check">
     <keyboard-shortcut first-keystroke="alt numpad5" />
   </action>
