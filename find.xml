@@ -18,7 +18,7 @@
     <mask>serializers.py</mask>
     <mask>models.py</mask>
     <mask>test*.py</mask>
-    <mask>*.py</mask>
     <mask>*.html</mask>
+    <mask>*.py</mask>
   </component>
 </application>
