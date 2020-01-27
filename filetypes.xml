@@ -5,26 +5,26 @@
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="j2" type="HTML" />
       <mapping ext="make" type="Makefile" />
+      <mapping pattern="passwd" type="PLAIN_TEXT" />
+      <mapping pattern="botworld" type="PLAIN_TEXT" />
+      <mapping pattern="ios_audio.txt" type="PLAIN_TEXT" />
+      <mapping pattern="hosts" type="PLAIN_TEXT" />
+      <mapping pattern="remote" type="PLAIN_TEXT" />
+      <mapping pattern="masterformcategories.json" type="PLAIN_TEXT" />
+      <mapping pattern="список купонов" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tcp" type="PLAIN_TEXT" />
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="ios_audio.txt" type="PLAIN_TEXT" />
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="список купонов.txt" type="PLAIN_TEXT" />
-      <mapping pattern="masterformcategories.json" type="PLAIN_TEXT" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
-      <mapping pattern="passwd" type="PLAIN_TEXT" />
-      <mapping pattern="список купонов" type="PLAIN_TEXT" />
-      <mapping pattern="hosts" type="PLAIN_TEXT" />
-      <mapping pattern="botworld" type="PLAIN_TEXT" />
-      <mapping pattern="remote" type="PLAIN_TEXT" />
-      <mapping ext="5" type="PLAIN_TEXT" />
-      <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="07" type="PLAIN_TEXT" />
       <mapping ext="stop" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="tpl" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
