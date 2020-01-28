@@ -16,9 +16,9 @@
         </GitlabServer>
         <GitlabServer>
           <option name="apiToken" value="vZBNxHyr3dH_SyHEp_Fy" />
-          <option name="apiUrl" value="http://gitlab.zclick.biz" />
+          <option name="apiUrl" value="http://185.26.99.132" />
           <option name="removeSourceBranch" value="false" />
-          <option name="repositoryUrl" value="gitlab.zclick.biz" />
+          <option name="repositoryUrl" value="185.26.99.132" />
         </GitlabServer>
       </list>
     </option>
