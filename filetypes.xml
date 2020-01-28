@@ -20,6 +20,7 @@
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
       <mapping ext="07" type="PLAIN_TEXT" />
       <mapping ext="stop" type="PLAIN_TEXT" />
+      <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
