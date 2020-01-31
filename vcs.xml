@@ -30,6 +30,10 @@
           <option name="url" value="http://gitlab.zclick.biz" />
           <option name="userName" value="Petrukhin" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://185.26.99.132" />
+          <option name="userName" value="nikolay.petrukhin@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
