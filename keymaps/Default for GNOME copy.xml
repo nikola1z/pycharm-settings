@@ -76,6 +76,9 @@
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="RunClass">
     <keyboard-shortcut first-keystroke="alt r" />
   </action>
@@ -99,9 +102,6 @@
   </action>
   <action id="TabsPlacementRight">
     <keyboard-shortcut first-keystroke="alt add" />
-  </action>
-  <action id="Tool_External Tools_black">
-    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="Tool_External Tools_make check">
     <keyboard-shortcut first-keystroke="alt numpad5" />
