@@ -34,9 +34,6 @@
   <action id="Console.Jdbc.ExplainPlan">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
-  <action id="DatabaseView.Tools.TruncateTableAction">
-    <keyboard-shortcut first-keystroke="alt t" />
-  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
@@ -102,6 +99,9 @@
   </action>
   <action id="TabsPlacementRight">
     <keyboard-shortcut first-keystroke="alt add" />
+  </action>
+  <action id="Terminal.OpenInTerminal">
+    <keyboard-shortcut first-keystroke="alt t" />
   </action>
   <action id="Tool_External Tools_make check">
     <keyboard-shortcut first-keystroke="alt numpad5" />
