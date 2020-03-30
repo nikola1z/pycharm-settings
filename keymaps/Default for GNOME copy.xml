@@ -34,6 +34,9 @@
   <action id="Console.Jdbc.ExplainPlan">
     <keyboard-shortcut first-keystroke="alt z" />
   </action>
+  <action id="CopyAsPlainText">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="EditorToggleCase">
     <keyboard-shortcut first-keystroke="alt u" />
   </action>
