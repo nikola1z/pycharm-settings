@@ -34,6 +34,10 @@
           <option name="url" value="http://185.26.99.132" />
           <option name="userName" value="nikolay.petrukhin@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.skillbox.ru" />
+          <option name="userName" value="nikolay.petrukhin@gmail.com" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
