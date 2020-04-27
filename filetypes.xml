@@ -17,9 +17,9 @@
       <mapping pattern="Dockerfile-tcp" type="PLAIN_TEXT" />
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
       <mapping pattern="default" type="PLAIN_TEXT" />
-      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping pattern="список купонов.txt" type="PLAIN_TEXT" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
+      <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping ext="07" type="PLAIN_TEXT" />
       <mapping ext="stop" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
