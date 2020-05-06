@@ -22,6 +22,7 @@
       <mapping pattern="inventory" type="PLAIN_TEXT" />
       <mapping ext="07" type="PLAIN_TEXT" />
       <mapping ext="stop" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
