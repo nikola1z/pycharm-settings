@@ -20,6 +20,12 @@
           <option name="removeSourceBranch" value="false" />
           <option name="repositoryUrl" value="185.26.99.132" />
         </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="95YyEkF1Sy3ZD7ZwdNca" />
+          <option name="apiUrl" value="https://git.ent.sam" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="git.ent.sam" />
+        </GitlabServer>
       </list>
     </option>
   </component>
