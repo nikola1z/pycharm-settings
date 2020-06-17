@@ -38,6 +38,10 @@
           <option name="url" value="http://gitlab.skillbox.ru" />
           <option name="userName" value="nikolay.petrukhin@gmail.com" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ent.sam" />
+          <option name="userName" value="n.petruhin" />
+        </UrlAndUserName>
       </list>
     </option>
   </component>
