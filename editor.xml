@@ -7,6 +7,7 @@
     <option name="FONT_SIZE" value="15" />
     <option name="FONT_FAMILY" value="Hack" />
     <option name="LINE_SPACING" value="1.1" />
+    <option name="SECONDARY_FONT_FAMILY" value="Inconsolata" />
   </component>
   <component name="EditorSettings">
     <option name="languageBreadcrumbsMap">
