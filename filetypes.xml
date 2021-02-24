@@ -5,7 +5,7 @@
       <mapping ext="django" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="j2" type="HTML" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="список купонов" type="PLAIN_TEXT" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
       <mapping pattern="список купонов.txt" type="PLAIN_TEXT" />
