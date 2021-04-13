@@ -19,6 +19,7 @@
     <mask>models.py</mask>
     <mask>admin.py</mask>
     <mask>forms.py</mask>
+    <mask>tasks.py</mask>
     <mask>*.py</mask>
   </component>
 </application>
