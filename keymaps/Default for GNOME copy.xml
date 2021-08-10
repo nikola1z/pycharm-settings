@@ -72,6 +72,9 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt page_up" />
   </action>
