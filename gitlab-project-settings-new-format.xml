@@ -1,0 +1,32 @@
+<application>
+  <component name="SettingsState">
+    <option name="gitlabServers">
+      <list>
+        <GitlabServer>
+          <option name="apiToken" value="ddeJ69kLi9qZYc-ALhPc" />
+          <option name="apiUrl" value="https://gitlab.agimagroup.ru/" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.agimagroup.ru/x5-5ka/" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="ddeJ69kLi9qZYc-ALhPc" />
+          <option name="apiUrl" value="https://gitlab.agimagroup.ru" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="gitlab.agimagroup.ru" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="vZBNxHyr3dH_SyHEp_Fy" />
+          <option name="apiUrl" value="http://185.26.99.132" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="185.26.99.132" />
+        </GitlabServer>
+        <GitlabServer>
+          <option name="apiToken" value="95YyEkF1Sy3ZD7ZwdNca" />
+          <option name="apiUrl" value="https://git.ent.sam" />
+          <option name="removeSourceBranch" value="false" />
+          <option name="repositoryUrl" value="git.ent.sam" />
+        </GitlabServer>
+      </list>
+    </option>
+  </component>
+</application>

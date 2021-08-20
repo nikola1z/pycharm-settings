@@ -1,0 +1,59 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="nikola1z" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.knopka24.ru" />
+          <option name="userName" value="nikolay.petruhin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.knopka24.ru:443" />
+          <option name="userName" value="nikolay.petruhin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.agimagroup.ru" />
+          <option name="userName" value="ext_npetruhin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.osinit.com" />
+          <option name="userName" value="nikolay.petruhin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="npetrukhin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.zclick.biz" />
+          <option name="userName" value="Petrukhin" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://185.26.99.132" />
+          <option name="userName" value="nikolay.petrukhin@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.skillbox.ru" />
+          <option name="userName" value="nikolay.petrukhin@gmail.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.ent.sam" />
+          <option name="userName" value="n.petruhin" />
+        </UrlAndUserName>
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
+  </component>
+</application>
