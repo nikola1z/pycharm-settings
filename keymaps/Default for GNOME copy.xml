@@ -72,8 +72,14 @@
   <action id="JumpToLastChange">
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="LocalHistory">
+    <keyboard-shortcut first-keystroke="alt h" />
+  </action>
   <action id="LocalHistory.ShowHistory">
     <keyboard-shortcut first-keystroke="alt page_up" />
+  </action>
+  <action id="MarkSourceRoot">
+    <keyboard-shortcut first-keystroke="ctrl alt w" />
   </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="alt kp_down" />
@@ -82,6 +88,9 @@
     <keyboard-shortcut first-keystroke="alt kp_up" />
   </action>
   <action id="PerforceDirect.Edit" />
+  <action id="PyMarkResourceRoot">
+    <keyboard-shortcut first-keystroke="ctrl numpad4" />
+  </action>
   <action id="QuickEvaluateExpression">
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
@@ -117,6 +126,12 @@
   </action>
   <action id="Tool_External Tools_make check">
     <keyboard-shortcut first-keystroke="alt numpad5" />
+  </action>
+  <action id="UnmarkResourceRoot">
+    <keyboard-shortcut first-keystroke="ctrl numpad5" />
+  </action>
+  <action id="UnmarkRoot">
+    <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
   <action id="Unsplit">
     <keyboard-shortcut first-keystroke="shift v" />
