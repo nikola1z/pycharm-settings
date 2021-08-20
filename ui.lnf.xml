@@ -1,12 +1,15 @@
 <application>
   <component name="UISettings">
+    <option name="compactTreeIndents" value="true" />
     <option name="EDITOR_TAB_LIMIT" value="20" />
+    <option name="FULL_PATHS_IN_TITLE_BAR" value="true" />
     <option name="HIDE_TABS_IF_NEED" value="false" />
     <option name="MAX_LOOKUP_WIDTH2" value="1382" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
+    <option name="showTreeIndentGuides" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
