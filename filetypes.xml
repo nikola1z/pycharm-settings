@@ -26,6 +26,7 @@
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="txt" type="PLAIN_TEXT" />
       <mapping ext="vmoptions" type="PLAIN_TEXT" />
       <mapping ext="07" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
@@ -40,7 +41,6 @@
       <removed_mapping ext="makefile" approved="true" type="textmate" />
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
-      <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
       <mapping ext="conf" type="nginx file type" />
       <mapping ext="template" type="nginx file type" />
