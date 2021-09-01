@@ -11,6 +11,7 @@
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
     <option name="SHOW_PINNED_TABS_IN_A_SEPARATE_ROW" value="true" />
     <option name="showTreeIndentGuides" value="true" />
+    <option name="CONTRAST_SCROLLBARS" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>
