@@ -1,0 +1,5 @@
+<application>
+  <component name="KubernetesPodLogsSettings">
+    <option name="timestampedLogName" value="true" />
+  </component>
+</application>
