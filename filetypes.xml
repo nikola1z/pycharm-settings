@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern="mock_house_search" type="AUTO_DETECTED" />
+      <mapping pattern="pass" type="AUTO_DETECTED" />
       <mapping ext="django" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="j2" type="HTML" />
