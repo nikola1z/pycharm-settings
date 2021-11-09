@@ -7,11 +7,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="BIBTEX_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="BibTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
-                    </value>
-                  </entry>
                   <entry key="ChromiumRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Attach to Node.js/Chrome" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
@@ -30,11 +25,6 @@
                   <entry key="DjangoTestsConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="EXTERNAL_TOOL_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="External LaTeX Tool" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
                   <entry key="FirefoxRemoteDebugType">
@@ -60,21 +50,6 @@
                   <entry key="JavascriptDebugType">
                     <value>
                       <FeaturePluginData displayName="JavaScript Debug" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
-                    </value>
-                  </entry>
-                  <entry key="LATEX_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="LaTeX" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
-                    </value>
-                  </entry>
-                  <entry key="MAKEFILE_TARGET_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Makefile Target" pluginName="Makefile Language" pluginId="name.kropp.intellij.makefile" />
-                    </value>
-                  </entry>
-                  <entry key="MAKEINDEX_RUN_CONFIGURATION">
-                    <value>
-                      <FeaturePluginData displayName="Makeindex" pluginName="TeXiFy IDEA" pluginId="nl.rubensten.texifyidea" />
                     </value>
                   </entry>
                   <entry key="NodeWebKit">
@@ -182,11 +157,6 @@
             <FeaturePluginsList>
               <option name="featureMap">
                 <map>
-                  <entry key="NBMindMap">
-                    <value>
-                      <FeaturePluginData displayName="NB Mind Map" pluginName="IDEA Mind Map" pluginId="nb-mind-map-idea" />
-                    </value>
-                  </entry>
                   <entry key="buildout-python">
                     <value>
                       <FeaturePluginData displayName="Buildout Support" pluginName="Python" pluginId="Pythonid" bundled="true" />
