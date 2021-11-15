@@ -27,6 +27,11 @@
                       <FeaturePluginData displayName="Django tests" pluginName="Python" pluginId="Pythonid" bundled="true" />
                     </value>
                   </entry>
+                  <entry key="DockDockBuildRunConfiguration">
+                    <value>
+                      <FeaturePluginData displayName="DockDockBuild" pluginName="DockDockBuild" pluginId="com.intuit.intellij.makefile" />
+                    </value>
+                  </entry>
                   <entry key="FirefoxRemoteDebugType">
                     <value>
                       <FeaturePluginData displayName="Firefox Remote" pluginName="JavaScript Debugger" pluginId="JavaScriptDebugger" bundled="true" />
