@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="models.py" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
@@ -16,11 +16,11 @@
     <mask>test*.py</mask>
     <mask>*.html</mask>
     <mask>*.js</mask>
-    <mask>models.py</mask>
     <mask>admin.py</mask>
     <mask>forms.py</mask>
     <mask>tasks.py</mask>
     <mask>config.py</mask>
     <mask>*.py</mask>
+    <mask>models.py</mask>
   </component>
 </application>
