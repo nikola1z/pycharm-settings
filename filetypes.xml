@@ -7,6 +7,7 @@
       <mapping ext="django" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
       <mapping ext="j2" type="HTML" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="GNUmakefile" type="Makefile" />
       <mapping pattern="список купонов" type="PLAIN_TEXT" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
