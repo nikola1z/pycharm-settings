@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
+      <mapping pattern="autoinstall" type="AUTO_DETECTED" />
       <mapping pattern="mock_house_search" type="AUTO_DETECTED" />
       <mapping pattern="pass" type="AUTO_DETECTED" />
       <mapping ext="django" type="Dockerfile" />
