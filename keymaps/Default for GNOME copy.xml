@@ -151,4 +151,5 @@
   <action id="editRunConfigurations">
     <keyboard-shortcut first-keystroke="alt f9" />
   </action>
+  <action id="texify.analysis.WordCount" />
 </keymap>
