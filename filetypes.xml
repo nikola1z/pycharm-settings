@@ -8,8 +8,6 @@
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping ext="django" type="Dockerfile" />
       <mapping ext="dev" type="Dockerfile" />
-      <mapping pattern=".env.*" type="Env File" />
-      <mapping ext="env" type="Env File" />
       <mapping ext="j2" type="HTML" />
       <mapping pattern="GNUmakefile" type="Makefile" />
       <mapping pattern="reports.json" type="PLAIN_TEXT" />
@@ -49,7 +47,9 @@
       <removed_mapping ext="tsv" approved="true" type="CSV/TSV" />
       <removed_mapping ext="txt" approved="true" type="PLAIN_TEXT" />
       <mapping ext="conf" type="nginx file type" />
+      <mapping ext="env" type="Env File" />
       <mapping ext="template" type="nginx file type" />
+      <mapping pattern=".env.*" type="Env File" />
     </extensionMap>
   </component>
 </application>
