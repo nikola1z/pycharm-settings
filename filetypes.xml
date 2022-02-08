@@ -26,6 +26,7 @@
       <mapping pattern="vagrant" type="PLAIN_TEXT" />
       <mapping pattern="Dockerfile-tcp" type="PLAIN_TEXT" />
       <mapping pattern="список купонов" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="rb" type="PLAIN_TEXT" />
       <mapping ext="in" type="PLAIN_TEXT" />
       <mapping ext="tpl" type="PLAIN_TEXT" />
